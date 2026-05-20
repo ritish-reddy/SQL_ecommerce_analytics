@@ -104,7 +104,7 @@ SQL_Ecommerce_Analytics_Project/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/SQL_Ecommerce_Analytics_Project.git
+git clone https://github.com/ritish-reddy/SQL_Ecommerce_Analytics_Project.git
 cd SQL_Ecommerce_Analytics_Project
 ```
 
@@ -185,12 +185,7 @@ SOURCE sql_scripts/06_advanced_queries.sql;
 **Ritish**
 📍 Hyderabad, Telangana
 🎓 B.Tech CSE — JNTU Hyderabad (2026)
-🔗 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) | [GitHub](https://github.com/YOUR_USERNAME)
+🔗 [LinkedIn](https://linkedin.com/in/ritishreddy04) | [GitHub](https://github.com/ritish-reddy)
 
 *Open to Data Analyst and Business Analyst opportunities.*
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
