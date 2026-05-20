@@ -90,7 +90,6 @@ SQL_Ecommerce_Analytics_Project/
 │
 ├── README.md                  # This file
 ├── insights.md                # Full business insights + recommendations
-└── interview_prep.md          # 17 Q&A pairs for interview preparation
 ```
 
 ---
