@@ -1,0 +1,2001 @@
+order_id,customer_id,order_date,status,payment_method,total_amount,shipping_city,shipping_state
+1,93,2023-06-10,Delivered,Cash on Delivery,897,Delhi,Delhi
+2,169,2023-06-18,Processing,Net Banking,59896,Kolkata,West Bengal
+3,183,2023-03-31,Delivered,Debit Card,1200,Lucknow,Uttar Pradesh
+4,71,2023-10-02,Delivered,Cash on Delivery,5845,Kolkata,West Bengal
+5,30,2023-11-02,Cancelled,Net Banking,1496,Chandigarh,Punjab
+6,107,2022-04-08,Delivered,Debit Card,3823,Ahmedabad,Gujarat
+7,22,2022-04-06,Delivered,Cash on Delivery,11156,Surat,Gujarat
+8,91,2023-11-13,Delivered,Cash on Delivery,15930,Jaipur,Rajasthan
+9,58,2022-04-21,Shipped,Cash on Delivery,15297,Chandigarh,Punjab
+10,158,2023-11-23,Returned,EMI,3200,Ahmedabad,Gujarat
+11,47,2022-10-07,Delivered,Debit Card,30148,Bengaluru,Karnataka
+12,37,2023-10-11,Shipped,Debit Card,2280,Pune,Maharashtra
+13,117,2022-12-16,Shipped,Cash on Delivery,2429,Surat,Gujarat
+14,40,2022-06-11,Delivered,EMI,2280,Hyderabad,Telangana
+15,156,2023-03-29,Delivered,Credit Card,40997,Hyderabad,Telangana
+16,135,2023-11-15,Processing,Credit Card,24897,Chennai,Tamil Nadu
+17,197,2022-05-21,Delivered,EMI,7409,Bengaluru,Karnataka
+18,137,2023-12-22,Cancelled,UPI,8100,Bengaluru,Karnataka
+19,11,2023-03-23,Returned,UPI,628,Delhi,Delhi
+20,147,2023-02-19,Returned,Debit Card,97997,Bengaluru,Karnataka
+21,23,2023-03-24,Delivered,Net Banking,629,Pune,Maharashtra
+22,102,2022-11-14,Delivered,EMI,17896,Bengaluru,Karnataka
+23,199,2022-12-24,Delivered,Debit Card,12096,Chandigarh,Punjab
+24,20,2022-07-01,Shipped,Cash on Delivery,6241,Surat,Gujarat
+25,81,2022-06-04,Shipped,Cash on Delivery,20296,Ahmedabad,Gujarat
+26,119,2023-04-08,Delivered,UPI,10500,Lucknow,Uttar Pradesh
+27,24,2023-09-22,Delivered,Cash on Delivery,43050,Jaipur,Rajasthan
+28,129,2022-06-04,Delivered,UPI,254,Mumbai,Maharashtra
+29,130,2023-10-24,Shipped,Net Banking,61287,Lucknow,Uttar Pradesh
+30,41,2023-01-08,Shipped,EMI,4719,Mumbai,Maharashtra
+31,86,2022-03-09,Delivered,EMI,10079,Surat,Gujarat
+32,86,2022-03-25,Returned,EMI,2888,Surat,Gujarat
+33,153,2023-12-27,Delivered,EMI,2240,Hyderabad,Telangana
+34,33,2023-11-18,Delivered,Credit Card,898,Mumbai,Maharashtra
+35,47,2022-08-08,Processing,Debit Card,7494,Bengaluru,Karnataka
+36,198,2023-07-07,Cancelled,Cash on Delivery,13500,Pune,Maharashtra
+37,97,2022-06-07,Cancelled,Debit Card,4672,Kolkata,West Bengal
+38,106,2023-01-09,Delivered,EMI,877,Hyderabad,Telangana
+39,137,2022-09-02,Shipped,Cash on Delivery,8924,Bengaluru,Karnataka
+40,129,2023-06-25,Cancelled,Credit Card,15040,Mumbai,Maharashtra
+41,183,2023-06-13,Delivered,Debit Card,3600,Lucknow,Uttar Pradesh
+42,132,2022-05-31,Returned,Net Banking,7594,Delhi,Delhi
+43,99,2022-03-25,Returned,EMI,49127,Mumbai,Maharashtra
+44,10,2022-10-21,Delivered,Credit Card,3193,Mumbai,Maharashtra
+45,187,2023-09-16,Delivered,Debit Card,15768,Kolkata,West Bengal
+46,29,2023-05-27,Delivered,EMI,3600,Chennai,Tamil Nadu
+47,110,2022-01-02,Delivered,EMI,5046,Pune,Maharashtra
+48,135,2023-07-12,Cancelled,Credit Card,1018,Chennai,Tamil Nadu
+49,96,2022-09-17,Shipped,UPI,2997,Chandigarh,Punjab
+50,169,2023-10-06,Shipped,UPI,899,Kolkata,West Bengal
+51,91,2023-07-14,Delivered,Debit Card,8594,Jaipur,Rajasthan
+52,76,2022-07-26,Cancelled,UPI,8997,Lucknow,Uttar Pradesh
+53,102,2023-07-11,Delivered,Credit Card,49118,Bengaluru,Karnataka
+54,95,2023-03-24,Delivered,Net Banking,14092,Ahmedabad,Gujarat
+55,109,2022-03-22,Delivered,Credit Card,23198,Chennai,Tamil Nadu
+56,155,2023-03-13,Delivered,EMI,2875,Ahmedabad,Gujarat
+57,112,2022-10-09,Shipped,Net Banking,24000,Pune,Maharashtra
+58,192,2023-11-27,Cancelled,EMI,89039,Delhi,Delhi
+59,33,2022-03-10,Returned,Credit Card,2786,Mumbai,Maharashtra
+60,116,2023-01-15,Delivered,UPI,25648,Delhi,Delhi
+61,64,2022-04-27,Delivered,Net Banking,2249,Kolkata,West Bengal
+62,68,2022-09-24,Delivered,Debit Card,6114,Ahmedabad,Gujarat
+63,114,2022-03-31,Delivered,UPI,23599,Pune,Maharashtra
+64,180,2023-10-16,Delivered,Debit Card,2479,Chandigarh,Punjab
+65,127,2022-01-27,Delivered,Cash on Delivery,6999,Jaipur,Rajasthan
+66,80,2023-02-12,Delivered,UPI,23968,Pune,Maharashtra
+67,133,2022-12-19,Delivered,Debit Card,5129,Chennai,Tamil Nadu
+68,32,2023-06-15,Delivered,EMI,5197,Kolkata,West Bengal
+69,73,2022-03-22,Delivered,UPI,26997,Pune,Maharashtra
+70,165,2022-06-22,Shipped,Cash on Delivery,2896,Mumbai,Maharashtra
+71,8,2022-03-25,Delivered,Debit Card,2880,Chandigarh,Punjab
+72,107,2023-09-25,Cancelled,Cash on Delivery,1347,Ahmedabad,Gujarat
+73,78,2023-05-10,Delivered,EMI,3299,Hyderabad,Telangana
+74,107,2023-05-11,Delivered,EMI,27196,Ahmedabad,Gujarat
+75,195,2023-01-15,Delivered,Credit Card,798,Chandigarh,Punjab
+76,64,2022-05-25,Delivered,Net Banking,8400,Kolkata,West Bengal
+77,108,2022-09-12,Shipped,Debit Card,2239,Kolkata,West Bengal
+78,132,2023-04-24,Returned,Cash on Delivery,160787,Delhi,Delhi
+79,13,2022-02-21,Delivered,Credit Card,5798,Jaipur,Rajasthan
+80,68,2023-01-10,Delivered,Debit Card,55396,Ahmedabad,Gujarat
+81,130,2023-04-07,Processing,Net Banking,10396,Lucknow,Uttar Pradesh
+82,194,2022-05-28,Delivered,Credit Card,5000,Kolkata,West Bengal
+83,183,2022-12-08,Cancelled,Debit Card,10494,Lucknow,Uttar Pradesh
+84,158,2022-11-03,Shipped,UPI,7314,Ahmedabad,Gujarat
+85,173,2022-04-23,Delivered,EMI,57197,Chandigarh,Punjab
+86,14,2023-08-21,Delivered,EMI,4992,Hyderabad,Telangana
+87,49,2022-01-20,Delivered,Cash on Delivery,13909,Pune,Maharashtra
+88,36,2023-06-16,Processing,Net Banking,3418,Pune,Maharashtra
+89,45,2023-04-16,Delivered,Debit Card,14397,Lucknow,Uttar Pradesh
+90,58,2022-11-01,Delivered,Cash on Delivery,9753,Chandigarh,Punjab
+91,32,2023-08-11,Delivered,EMI,10493,Kolkata,West Bengal
+92,192,2023-05-06,Delivered,Cash on Delivery,7223,Delhi,Delhi
+93,28,2023-09-23,Shipped,Cash on Delivery,5597,Jaipur,Rajasthan
+94,14,2022-04-13,Delivered,Cash on Delivery,16195,Hyderabad,Telangana
+95,167,2022-07-24,Returned,Credit Card,11472,Ahmedabad,Gujarat
+96,190,2022-02-08,Returned,Credit Card,4876,Delhi,Delhi
+97,48,2022-10-24,Delivered,Cash on Delivery,36000,Lucknow,Uttar Pradesh
+98,73,2023-04-11,Delivered,Credit Card,26097,Pune,Maharashtra
+99,66,2022-07-10,Shipped,Cash on Delivery,3825,Bengaluru,Karnataka
+100,45,2023-09-18,Delivered,Credit Card,6047,Lucknow,Uttar Pradesh
+101,2,2022-09-25,Delivered,EMI,26817,Surat,Gujarat
+102,178,2022-08-30,Delivered,Debit Card,7980,Surat,Gujarat
+103,129,2023-12-22,Delivered,Debit Card,9998,Mumbai,Maharashtra
+104,192,2023-09-13,Shipped,EMI,2596,Delhi,Delhi
+105,194,2023-09-03,Delivered,EMI,699,Kolkata,West Bengal
+106,145,2022-04-25,Returned,Debit Card,4050,Chandigarh,Punjab
+107,39,2022-06-18,Shipped,EMI,9087,Jaipur,Rajasthan
+108,115,2022-02-26,Delivered,Cash on Delivery,6740,Ahmedabad,Gujarat
+109,102,2022-09-18,Delivered,Credit Card,6648,Bengaluru,Karnataka
+110,180,2022-03-07,Processing,Net Banking,16000,Chandigarh,Punjab
+111,105,2022-07-04,Processing,Net Banking,3512,Surat,Gujarat
+112,21,2023-12-01,Delivered,Cash on Delivery,5507,Ahmedabad,Gujarat
+113,187,2022-08-17,Processing,Net Banking,140250,Kolkata,West Bengal
+114,140,2023-03-11,Delivered,Debit Card,4202,Chennai,Tamil Nadu
+115,158,2022-01-17,Delivered,Credit Card,32772,Ahmedabad,Gujarat
+116,181,2022-02-19,Delivered,Cash on Delivery,22499,Delhi,Delhi
+117,129,2022-10-24,Delivered,EMI,2239,Mumbai,Maharashtra
+118,78,2022-05-27,Delivered,Cash on Delivery,2742,Hyderabad,Telangana
+119,161,2023-11-27,Returned,EMI,17002,Kolkata,West Bengal
+120,105,2022-06-02,Delivered,Debit Card,9296,Surat,Gujarat
+121,15,2023-07-30,Delivered,UPI,7295,Kolkata,West Bengal
+122,95,2022-04-05,Delivered,Cash on Delivery,9000,Ahmedabad,Gujarat
+123,49,2023-08-25,Cancelled,UPI,3898,Pune,Maharashtra
+124,49,2022-05-01,Returned,Cash on Delivery,16293,Pune,Maharashtra
+125,167,2023-01-03,Cancelled,Net Banking,15798,Ahmedabad,Gujarat
+126,53,2023-01-15,Cancelled,EMI,48149,Hyderabad,Telangana
+127,150,2023-08-17,Delivered,Cash on Delivery,21515,Kolkata,West Bengal
+128,176,2022-12-12,Shipped,UPI,3893,Lucknow,Uttar Pradesh
+129,126,2022-07-08,Delivered,Credit Card,1677,Chandigarh,Punjab
+130,13,2022-01-07,Delivered,Cash on Delivery,28589,Jaipur,Rajasthan
+131,171,2023-09-24,Delivered,Credit Card,209847,Mumbai,Maharashtra
+132,74,2022-01-18,Delivered,Cash on Delivery,12594,Hyderabad,Telangana
+133,21,2023-01-18,Delivered,Credit Card,4543,Ahmedabad,Gujarat
+134,98,2023-01-22,Delivered,Net Banking,55589,Lucknow,Uttar Pradesh
+135,11,2022-08-24,Delivered,Credit Card,3057,Delhi,Delhi
+136,145,2023-11-05,Returned,UPI,2499,Chandigarh,Punjab
+137,151,2022-05-28,Delivered,Net Banking,27198,Jaipur,Rajasthan
+138,36,2023-12-07,Shipped,UPI,1800,Pune,Maharashtra
+139,112,2022-08-26,Delivered,Cash on Delivery,8100,Pune,Maharashtra
+140,199,2022-12-01,Shipped,Net Banking,6175,Chandigarh,Punjab
+141,92,2023-07-21,Delivered,Cash on Delivery,9444,Chandigarh,Punjab
+142,69,2022-06-07,Delivered,Credit Card,5893,Hyderabad,Telangana
+143,34,2022-03-31,Delivered,Cash on Delivery,711,Mumbai,Maharashtra
+144,23,2022-12-29,Delivered,UPI,5120,Pune,Maharashtra
+145,4,2022-10-26,Delivered,Debit Card,4501,Chandigarh,Punjab
+146,78,2022-10-02,Delivered,UPI,18379,Hyderabad,Telangana
+147,185,2023-10-03,Delivered,UPI,17093,Lucknow,Uttar Pradesh
+148,85,2023-03-27,Delivered,Cash on Delivery,6670,Hyderabad,Telangana
+149,46,2023-02-12,Shipped,UPI,6554,Ahmedabad,Gujarat
+150,30,2023-08-01,Delivered,Cash on Delivery,7697,Chandigarh,Punjab
+151,182,2022-08-03,Delivered,UPI,29496,Chandigarh,Punjab
+152,109,2023-01-22,Processing,Net Banking,538,Chennai,Tamil Nadu
+153,137,2023-06-03,Delivered,Credit Card,78797,Bengaluru,Karnataka
+154,43,2023-10-25,Processing,EMI,2040,Pune,Maharashtra
+155,193,2022-12-06,Delivered,Cash on Delivery,65069,Delhi,Delhi
+156,115,2023-01-19,Delivered,Credit Card,6694,Ahmedabad,Gujarat
+157,30,2022-05-26,Shipped,Cash on Delivery,11542,Chandigarh,Punjab
+158,113,2023-12-15,Cancelled,Credit Card,92198,Ahmedabad,Gujarat
+159,43,2022-09-07,Delivered,Net Banking,2943,Pune,Maharashtra
+160,162,2022-07-08,Delivered,Cash on Delivery,2395,Lucknow,Uttar Pradesh
+161,110,2023-02-03,Delivered,EMI,2799,Pune,Maharashtra
+162,148,2022-04-15,Delivered,Credit Card,4695,Bengaluru,Karnataka
+163,136,2023-10-17,Delivered,Credit Card,9095,Hyderabad,Telangana
+164,45,2023-11-21,Shipped,UPI,3497,Lucknow,Uttar Pradesh
+165,47,2023-01-18,Delivered,Debit Card,4318,Bengaluru,Karnataka
+166,48,2023-05-14,Delivered,Debit Card,4598,Lucknow,Uttar Pradesh
+167,159,2022-02-24,Delivered,Net Banking,50710,Ahmedabad,Gujarat
+168,105,2023-12-03,Delivered,Credit Card,2554,Surat,Gujarat
+169,58,2023-07-05,Shipped,Net Banking,5711,Chandigarh,Punjab
+170,30,2022-10-02,Delivered,Net Banking,73799,Chandigarh,Punjab
+171,77,2022-02-03,Cancelled,Credit Card,6956,Surat,Gujarat
+172,177,2022-12-26,Cancelled,Credit Card,13130,Bengaluru,Karnataka
+173,138,2022-06-22,Returned,Cash on Delivery,13600,Chandigarh,Punjab
+174,16,2022-10-11,Delivered,UPI,2076,Chandigarh,Punjab
+175,101,2023-05-17,Delivered,Net Banking,19665,Lucknow,Uttar Pradesh
+176,197,2022-04-06,Returned,UPI,21281,Bengaluru,Karnataka
+177,118,2023-10-13,Delivered,Net Banking,11198,Bengaluru,Karnataka
+178,83,2022-10-18,Delivered,Net Banking,5679,Surat,Gujarat
+179,12,2022-04-12,Delivered,Net Banking,170795,Kolkata,West Bengal
+180,41,2022-10-08,Delivered,UPI,3312,Mumbai,Maharashtra
+181,43,2022-02-23,Shipped,Credit Card,8048,Pune,Maharashtra
+182,58,2023-06-16,Shipped,Net Banking,31147,Chandigarh,Punjab
+183,27,2022-04-16,Delivered,Debit Card,4926,Hyderabad,Telangana
+184,136,2023-07-31,Shipped,Net Banking,1497,Hyderabad,Telangana
+185,55,2023-10-06,Shipped,Debit Card,1048,Chandigarh,Punjab
+186,193,2022-05-07,Delivered,EMI,5040,Delhi,Delhi
+187,185,2023-09-15,Delivered,Cash on Delivery,174798,Lucknow,Uttar Pradesh
+188,166,2022-02-25,Delivered,Net Banking,1655,Ahmedabad,Gujarat
+189,136,2022-01-13,Cancelled,Cash on Delivery,3887,Hyderabad,Telangana
+190,45,2023-04-28,Delivered,Credit Card,55000,Lucknow,Uttar Pradesh
+191,11,2022-03-03,Shipped,Credit Card,10963,Delhi,Delhi
+192,72,2022-03-27,Processing,Debit Card,14847,Mumbai,Maharashtra
+193,163,2023-10-28,Shipped,EMI,1120,Ahmedabad,Gujarat
+194,15,2022-09-08,Delivered,Cash on Delivery,404,Kolkata,West Bengal
+195,80,2023-11-14,Shipped,EMI,38800,Pune,Maharashtra
+196,89,2023-06-20,Shipped,UPI,2631,Lucknow,Uttar Pradesh
+197,110,2022-10-06,Shipped,Cash on Delivery,2720,Pune,Maharashtra
+198,128,2023-04-12,Delivered,Debit Card,8447,Kolkata,West Bengal
+199,186,2022-04-29,Delivered,Credit Card,37800,Surat,Gujarat
+200,94,2023-01-28,Delivered,EMI,43772,Chandigarh,Punjab
+201,58,2022-11-26,Delivered,Credit Card,1347,Chandigarh,Punjab
+202,129,2023-11-21,Delivered,Cash on Delivery,4998,Mumbai,Maharashtra
+203,18,2023-04-22,Delivered,Credit Card,5798,Pune,Maharashtra
+204,78,2023-09-30,Delivered,Net Banking,3396,Hyderabad,Telangana
+205,140,2022-09-09,Delivered,Cash on Delivery,55647,Chennai,Tamil Nadu
+206,3,2022-12-10,Cancelled,EMI,599,Delhi,Delhi
+207,53,2023-06-27,Returned,Debit Card,1316,Hyderabad,Telangana
+208,12,2022-08-26,Delivered,Debit Card,7857,Kolkata,West Bengal
+209,16,2023-03-22,Delivered,UPI,5438,Chandigarh,Punjab
+210,189,2022-12-01,Delivered,Debit Card,8596,Chennai,Tamil Nadu
+211,28,2022-06-18,Delivered,Debit Card,5126,Jaipur,Rajasthan
+212,24,2022-06-11,Cancelled,UPI,72699,Jaipur,Rajasthan
+213,92,2023-02-10,Delivered,Debit Card,2800,Chandigarh,Punjab
+214,116,2023-07-24,Delivered,Debit Card,2849,Delhi,Delhi
+215,200,2022-08-16,Delivered,EMI,3821,Delhi,Delhi
+216,151,2022-09-23,Processing,Debit Card,93500,Jaipur,Rajasthan
+217,33,2022-04-05,Delivered,Cash on Delivery,50444,Mumbai,Maharashtra
+218,8,2023-01-27,Delivered,Debit Card,27491,Chandigarh,Punjab
+219,166,2022-10-30,Delivered,Net Banking,14295,Ahmedabad,Gujarat
+220,64,2023-10-08,Shipped,UPI,1707,Kolkata,West Bengal
+221,125,2022-12-19,Delivered,Cash on Delivery,16098,Hyderabad,Telangana
+222,121,2023-06-27,Delivered,EMI,7792,Chandigarh,Punjab
+223,15,2022-08-13,Delivered,EMI,10956,Kolkata,West Bengal
+224,180,2022-12-27,Cancelled,Net Banking,4859,Chandigarh,Punjab
+225,126,2022-02-08,Delivered,Debit Card,10500,Chandigarh,Punjab
+226,123,2022-01-01,Delivered,Debit Card,3596,Kolkata,West Bengal
+227,38,2023-08-24,Cancelled,Credit Card,10497,Chandigarh,Punjab
+228,102,2023-08-24,Delivered,Debit Card,13500,Bengaluru,Karnataka
+229,112,2023-10-17,Shipped,Debit Card,6539,Pune,Maharashtra
+230,188,2023-12-07,Returned,Cash on Delivery,20896,Bengaluru,Karnataka
+231,155,2022-11-22,Returned,Debit Card,6100,Ahmedabad,Gujarat
+232,61,2022-12-22,Delivered,UPI,8899,Jaipur,Rajasthan
+233,90,2022-09-20,Delivered,Net Banking,30600,Chandigarh,Punjab
+234,43,2023-02-28,Cancelled,Cash on Delivery,8751,Pune,Maharashtra
+235,19,2022-02-04,Returned,Credit Card,58998,Ahmedabad,Gujarat
+236,188,2022-03-18,Delivered,Cash on Delivery,12825,Bengaluru,Karnataka
+237,8,2023-03-18,Delivered,Credit Card,3649,Chandigarh,Punjab
+238,105,2023-12-15,Delivered,Net Banking,8009,Surat,Gujarat
+239,14,2023-01-05,Delivered,EMI,1146,Hyderabad,Telangana
+240,123,2022-07-24,Delivered,EMI,55000,Kolkata,West Bengal
+241,122,2022-04-29,Cancelled,UPI,3592,Delhi,Delhi
+242,48,2023-01-15,Delivered,Net Banking,29194,Lucknow,Uttar Pradesh
+243,39,2023-12-15,Shipped,Cash on Delivery,3420,Jaipur,Rajasthan
+244,59,2023-07-21,Cancelled,Net Banking,1617,Chennai,Tamil Nadu
+245,122,2023-08-10,Delivered,EMI,5397,Delhi,Delhi
+246,133,2023-08-09,Delivered,Debit Card,3099,Chennai,Tamil Nadu
+247,11,2023-03-10,Delivered,EMI,1347,Delhi,Delhi
+248,67,2022-11-24,Delivered,Net Banking,2160,Surat,Gujarat
+249,71,2023-06-17,Shipped,Credit Card,22128,Kolkata,West Bengal
+250,150,2022-04-13,Shipped,UPI,2880,Kolkata,West Bengal
+251,89,2023-02-25,Delivered,Credit Card,3296,Lucknow,Uttar Pradesh
+252,159,2023-09-16,Delivered,Net Banking,54897,Ahmedabad,Gujarat
+253,80,2022-10-15,Processing,Net Banking,9355,Pune,Maharashtra
+254,155,2023-10-24,Delivered,Net Banking,5098,Ahmedabad,Gujarat
+255,195,2023-06-13,Delivered,EMI,10077,Chandigarh,Punjab
+256,146,2022-01-30,Delivered,Net Banking,16498,Surat,Gujarat
+257,51,2022-10-08,Delivered,Credit Card,2675,Bengaluru,Karnataka
+258,126,2023-09-01,Delivered,Debit Card,8312,Chandigarh,Punjab
+259,73,2022-01-29,Cancelled,EMI,24196,Pune,Maharashtra
+260,105,2023-06-10,Delivered,Debit Card,15300,Surat,Gujarat
+261,154,2022-01-09,Cancelled,UPI,16320,Mumbai,Maharashtra
+262,71,2023-03-10,Delivered,EMI,15114,Kolkata,West Bengal
+263,2,2023-06-08,Delivered,Credit Card,10925,Surat,Gujarat
+264,164,2022-11-29,Delivered,Debit Card,21397,Hyderabad,Telangana
+265,82,2023-11-29,Processing,UPI,105354,Surat,Gujarat
+266,189,2022-02-06,Shipped,EMI,10077,Chennai,Tamil Nadu
+267,92,2023-06-04,Delivered,Net Banking,12894,Chandigarh,Punjab
+268,144,2022-07-07,Delivered,UPI,6456,Ahmedabad,Gujarat
+269,150,2022-10-29,Delivered,Cash on Delivery,17398,Kolkata,West Bengal
+270,175,2023-01-26,Delivered,Debit Card,14196,Pune,Maharashtra
+271,37,2022-11-20,Delivered,Debit Card,4049,Pune,Maharashtra
+272,2,2023-04-08,Shipped,Net Banking,6318,Surat,Gujarat
+273,112,2023-10-11,Delivered,Cash on Delivery,3992,Pune,Maharashtra
+274,194,2023-06-28,Delivered,Debit Card,201000,Kolkata,West Bengal
+275,80,2022-05-13,Delivered,UPI,599,Pune,Maharashtra
+276,12,2022-11-02,Delivered,Net Banking,6925,Kolkata,West Bengal
+277,92,2022-07-12,Delivered,EMI,165499,Chandigarh,Punjab
+278,6,2023-08-27,Shipped,Credit Card,10448,Kolkata,West Bengal
+279,198,2023-07-02,Processing,EMI,9600,Pune,Maharashtra
+280,6,2022-02-19,Delivered,Credit Card,988,Kolkata,West Bengal
+281,122,2023-12-20,Delivered,EMI,64497,Delhi,Delhi
+282,70,2023-09-30,Delivered,Cash on Delivery,3598,Delhi,Delhi
+283,28,2023-05-25,Shipped,Cash on Delivery,15397,Jaipur,Rajasthan
+284,105,2022-10-30,Delivered,Debit Card,39950,Surat,Gujarat
+285,61,2022-01-03,Returned,Cash on Delivery,2040,Jaipur,Rajasthan
+286,39,2022-04-03,Returned,EMI,5000,Jaipur,Rajasthan
+287,76,2022-09-28,Cancelled,UPI,69198,Lucknow,Uttar Pradesh
+288,30,2022-04-08,Cancelled,EMI,15300,Chandigarh,Punjab
+289,85,2023-01-02,Cancelled,Debit Card,18996,Hyderabad,Telangana
+290,99,2023-12-08,Shipped,Credit Card,6755,Mumbai,Maharashtra
+291,124,2023-08-06,Delivered,EMI,8952,Kolkata,West Bengal
+292,29,2023-02-26,Delivered,EMI,90717,Chennai,Tamil Nadu
+293,58,2023-11-17,Delivered,EMI,9896,Chandigarh,Punjab
+294,174,2023-10-19,Delivered,Debit Card,8637,Chennai,Tamil Nadu
+295,193,2023-05-19,Delivered,Debit Card,21687,Delhi,Delhi
+296,61,2022-03-22,Delivered,Credit Card,5839,Jaipur,Rajasthan
+297,104,2023-02-27,Delivered,Credit Card,3600,Chennai,Tamil Nadu
+298,159,2023-10-15,Shipped,Net Banking,8599,Ahmedabad,Gujarat
+299,117,2022-12-06,Shipped,Debit Card,16596,Surat,Gujarat
+300,141,2023-06-19,Delivered,EMI,44454,Jaipur,Rajasthan
+301,66,2023-09-18,Returned,Net Banking,8798,Bengaluru,Karnataka
+302,184,2022-12-13,Delivered,EMI,1317,Hyderabad,Telangana
+303,151,2022-05-07,Returned,Credit Card,7509,Jaipur,Rajasthan
+304,150,2023-05-10,Shipped,Debit Card,9295,Kolkata,West Bengal
+305,154,2023-09-13,Processing,EMI,3276,Mumbai,Maharashtra
+306,88,2022-10-29,Delivered,EMI,15880,Ahmedabad,Gujarat
+307,162,2022-08-11,Shipped,EMI,10996,Lucknow,Uttar Pradesh
+308,182,2023-10-28,Shipped,UPI,5780,Chandigarh,Punjab
+309,144,2023-05-07,Delivered,Credit Card,22466,Ahmedabad,Gujarat
+310,52,2022-10-01,Delivered,Credit Card,5780,Mumbai,Maharashtra
+311,193,2023-07-09,Cancelled,Credit Card,2697,Delhi,Delhi
+312,190,2023-07-30,Delivered,EMI,6297,Delhi,Delhi
+313,13,2023-01-26,Delivered,UPI,14445,Jaipur,Rajasthan
+314,181,2023-12-28,Delivered,EMI,9998,Delhi,Delhi
+315,175,2022-03-18,Delivered,Credit Card,9878,Pune,Maharashtra
+316,68,2022-05-14,Delivered,Net Banking,3484,Ahmedabad,Gujarat
+317,40,2022-11-27,Cancelled,UPI,1422,Hyderabad,Telangana
+318,141,2023-01-02,Delivered,Debit Card,359,Jaipur,Rajasthan
+319,130,2022-06-13,Delivered,Debit Card,8836,Lucknow,Uttar Pradesh
+320,56,2023-09-26,Delivered,EMI,25467,Chennai,Tamil Nadu
+321,83,2023-01-26,Delivered,EMI,599,Surat,Gujarat
+322,133,2023-01-19,Delivered,Credit Card,74848,Chennai,Tamil Nadu
+323,161,2022-03-09,Cancelled,Debit Card,10659,Kolkata,West Bengal
+324,199,2023-03-22,Delivered,EMI,1299,Chandigarh,Punjab
+325,23,2022-03-17,Shipped,Cash on Delivery,7497,Pune,Maharashtra
+326,59,2022-09-22,Delivered,Net Banking,2841,Chennai,Tamil Nadu
+327,185,2023-09-26,Delivered,Credit Card,2697,Lucknow,Uttar Pradesh
+328,28,2022-10-24,Shipped,Net Banking,11210,Jaipur,Rajasthan
+329,122,2022-06-10,Shipped,Cash on Delivery,1996,Delhi,Delhi
+330,77,2023-11-25,Delivered,Credit Card,54807,Surat,Gujarat
+331,141,2022-03-29,Returned,Cash on Delivery,5047,Jaipur,Rajasthan
+332,158,2022-09-16,Shipped,Cash on Delivery,8237,Ahmedabad,Gujarat
+333,119,2023-10-23,Shipped,UPI,1800,Lucknow,Uttar Pradesh
+334,186,2023-08-18,Delivered,Cash on Delivery,8894,Surat,Gujarat
+335,85,2023-09-24,Delivered,UPI,4368,Hyderabad,Telangana
+336,64,2022-08-15,Cancelled,Net Banking,28591,Kolkata,West Bengal
+337,28,2022-06-29,Cancelled,Debit Card,5850,Jaipur,Rajasthan
+338,68,2023-10-04,Cancelled,Cash on Delivery,6800,Ahmedabad,Gujarat
+339,149,2023-08-16,Delivered,Cash on Delivery,50536,Kolkata,West Bengal
+340,58,2023-08-27,Delivered,Net Banking,7246,Chandigarh,Punjab
+341,62,2023-09-21,Delivered,Debit Card,6207,Chandigarh,Punjab
+342,38,2023-05-11,Delivered,UPI,24546,Chandigarh,Punjab
+343,53,2023-06-15,Cancelled,Credit Card,2248,Hyderabad,Telangana
+344,134,2023-10-11,Delivered,Net Banking,13343,Lucknow,Uttar Pradesh
+345,168,2022-03-21,Delivered,UPI,5219,Pune,Maharashtra
+346,129,2022-05-23,Delivered,Debit Card,23398,Mumbai,Maharashtra
+347,184,2022-05-02,Shipped,Net Banking,8584,Hyderabad,Telangana
+348,54,2023-08-28,Delivered,Debit Card,50982,Hyderabad,Telangana
+349,35,2023-10-07,Delivered,Debit Card,1200,Hyderabad,Telangana
+350,133,2023-02-20,Returned,Debit Card,5130,Chennai,Tamil Nadu
+351,121,2023-05-09,Delivered,Cash on Delivery,2276,Chandigarh,Punjab
+352,169,2023-06-08,Delivered,Credit Card,10947,Kolkata,West Bengal
+353,28,2022-01-17,Shipped,Debit Card,2249,Jaipur,Rajasthan
+354,122,2023-09-22,Delivered,Credit Card,5000,Delhi,Delhi
+355,169,2022-05-14,Delivered,UPI,359,Kolkata,West Bengal
+356,179,2023-06-27,Delivered,EMI,5911,Bengaluru,Karnataka
+357,35,2022-09-18,Cancelled,Net Banking,17399,Hyderabad,Telangana
+358,2,2023-08-15,Delivered,EMI,2097,Surat,Gujarat
+359,81,2023-02-23,Shipped,UPI,11445,Ahmedabad,Gujarat
+360,94,2023-09-19,Delivered,Cash on Delivery,8688,Chandigarh,Punjab
+361,143,2023-05-11,Shipped,Net Banking,5099,Ahmedabad,Gujarat
+362,192,2022-08-24,Delivered,UPI,20634,Delhi,Delhi
+363,181,2022-02-23,Cancelled,Debit Card,35907,Delhi,Delhi
+364,23,2022-03-07,Delivered,EMI,9400,Pune,Maharashtra
+365,134,2022-10-21,Delivered,Net Banking,2499,Lucknow,Uttar Pradesh
+366,169,2023-06-15,Delivered,EMI,40597,Kolkata,West Bengal
+367,10,2023-01-04,Delivered,UPI,30078,Mumbai,Maharashtra
+368,172,2023-02-09,Shipped,Credit Card,64792,Pune,Maharashtra
+369,150,2022-12-23,Returned,Net Banking,25744,Kolkata,West Bengal
+370,45,2023-02-21,Delivered,UPI,1500,Lucknow,Uttar Pradesh
+371,132,2022-09-21,Delivered,Debit Card,4316,Delhi,Delhi
+372,118,2023-08-24,Delivered,Credit Card,1137,Bengaluru,Karnataka
+373,57,2023-11-25,Returned,Cash on Delivery,1841,Chandigarh,Punjab
+374,68,2022-09-12,Delivered,Debit Card,7503,Ahmedabad,Gujarat
+375,147,2022-10-03,Shipped,Debit Card,3313,Bengaluru,Karnataka
+376,53,2022-08-23,Delivered,Credit Card,2196,Hyderabad,Telangana
+377,170,2023-05-20,Returned,Net Banking,7500,Surat,Gujarat
+378,81,2023-05-20,Delivered,Debit Card,4516,Ahmedabad,Gujarat
+379,135,2023-03-10,Delivered,EMI,41037,Chennai,Tamil Nadu
+380,133,2023-04-17,Delivered,UPI,61597,Chennai,Tamil Nadu
+381,141,2022-09-27,Returned,UPI,7298,Jaipur,Rajasthan
+382,109,2022-08-04,Delivered,Debit Card,10613,Chennai,Tamil Nadu
+383,70,2022-08-30,Cancelled,Debit Card,8826,Delhi,Delhi
+384,137,2022-11-20,Delivered,Credit Card,7225,Bengaluru,Karnataka
+385,122,2023-10-07,Shipped,UPI,598,Delhi,Delhi
+386,144,2023-07-25,Delivered,EMI,150881,Ahmedabad,Gujarat
+387,167,2023-10-27,Delivered,Cash on Delivery,7028,Ahmedabad,Gujarat
+388,21,2023-01-26,Delivered,UPI,6975,Ahmedabad,Gujarat
+389,104,2022-03-15,Delivered,UPI,2397,Chennai,Tamil Nadu
+390,75,2023-12-29,Cancelled,UPI,20482,Surat,Gujarat
+391,106,2022-06-21,Shipped,EMI,166497,Hyderabad,Telangana
+392,192,2022-03-23,Delivered,Credit Card,2751,Delhi,Delhi
+393,7,2023-02-11,Delivered,Debit Card,7500,Pune,Maharashtra
+394,100,2022-11-13,Delivered,Debit Card,3897,Ahmedabad,Gujarat
+395,8,2022-02-05,Processing,Cash on Delivery,2344,Chandigarh,Punjab
+396,179,2023-07-07,Delivered,EMI,7732,Bengaluru,Karnataka
+397,135,2023-10-18,Delivered,Credit Card,7406,Chennai,Tamil Nadu
+398,67,2022-06-09,Delivered,Net Banking,18985,Surat,Gujarat
+399,194,2023-05-04,Delivered,Credit Card,36044,Kolkata,West Bengal
+400,144,2023-03-24,Delivered,Net Banking,7215,Ahmedabad,Gujarat
+401,176,2022-10-06,Delivered,Credit Card,16049,Lucknow,Uttar Pradesh
+402,164,2023-04-12,Delivered,Debit Card,23447,Hyderabad,Telangana
+403,73,2022-10-03,Delivered,Debit Card,18598,Pune,Maharashtra
+404,88,2023-03-07,Shipped,Credit Card,2097,Ahmedabad,Gujarat
+405,69,2023-02-06,Delivered,Debit Card,4000,Hyderabad,Telangana
+406,98,2022-01-13,Delivered,Net Banking,2097,Lucknow,Uttar Pradesh
+407,9,2022-07-23,Delivered,UPI,15493,Chennai,Tamil Nadu
+408,191,2023-07-17,Delivered,UPI,6400,Jaipur,Rajasthan
+409,14,2023-11-14,Delivered,UPI,4198,Hyderabad,Telangana
+410,150,2022-05-03,Shipped,Net Banking,55246,Kolkata,West Bengal
+411,64,2022-06-11,Delivered,EMI,13097,Kolkata,West Bengal
+412,125,2022-08-27,Shipped,Credit Card,5010,Hyderabad,Telangana
+413,35,2022-09-14,Shipped,Cash on Delivery,1347,Hyderabad,Telangana
+414,179,2023-05-17,Delivered,UPI,6288,Bengaluru,Karnataka
+415,154,2023-07-22,Delivered,UPI,14477,Mumbai,Maharashtra
+416,94,2023-04-10,Delivered,Debit Card,5400,Chandigarh,Punjab
+417,94,2023-09-28,Shipped,Cash on Delivery,7038,Chandigarh,Punjab
+418,135,2023-12-01,Delivered,EMI,9696,Chennai,Tamil Nadu
+419,18,2022-02-14,Delivered,Net Banking,24499,Pune,Maharashtra
+420,147,2023-10-20,Delivered,UPI,4842,Bengaluru,Karnataka
+421,54,2023-11-03,Delivered,Net Banking,8674,Hyderabad,Telangana
+422,69,2023-06-26,Cancelled,Credit Card,24000,Hyderabad,Telangana
+423,25,2022-04-14,Delivered,Cash on Delivery,3652,Bengaluru,Karnataka
+424,161,2022-07-03,Shipped,Net Banking,7395,Kolkata,West Bengal
+425,130,2022-12-12,Delivered,UPI,13900,Lucknow,Uttar Pradesh
+426,96,2023-02-27,Delivered,Net Banking,11675,Chandigarh,Punjab
+427,116,2023-04-04,Delivered,Debit Card,67000,Delhi,Delhi
+428,81,2022-01-23,Returned,Debit Card,7500,Ahmedabad,Gujarat
+429,40,2022-05-22,Delivered,UPI,7792,Hyderabad,Telangana
+430,56,2022-03-21,Cancelled,EMI,4287,Chennai,Tamil Nadu
+431,165,2022-11-04,Delivered,Credit Card,1920,Mumbai,Maharashtra
+432,90,2023-03-21,Delivered,EMI,31158,Chandigarh,Punjab
+433,82,2023-07-07,Shipped,Debit Card,6597,Surat,Gujarat
+434,101,2023-04-02,Delivered,Net Banking,1199,Lucknow,Uttar Pradesh
+435,87,2022-03-26,Delivered,Net Banking,13409,Chandigarh,Punjab
+436,124,2023-07-27,Shipped,Debit Card,2559,Kolkata,West Bengal
+437,135,2022-09-10,Shipped,UPI,25925,Chennai,Tamil Nadu
+438,29,2023-11-19,Delivered,Cash on Delivery,8537,Chennai,Tamil Nadu
+439,158,2023-03-29,Returned,Debit Card,44897,Ahmedabad,Gujarat
+440,40,2022-03-29,Delivered,Cash on Delivery,7000,Hyderabad,Telangana
+441,4,2022-12-18,Delivered,Credit Card,1400,Chandigarh,Punjab
+442,190,2023-07-05,Delivered,UPI,13048,Delhi,Delhi
+443,187,2022-05-25,Delivered,EMI,539,Kolkata,West Bengal
+444,66,2022-06-24,Delivered,EMI,3240,Bengaluru,Karnataka
+445,14,2023-04-22,Delivered,UPI,20400,Hyderabad,Telangana
+446,93,2022-04-21,Cancelled,EMI,1710,Delhi,Delhi
+447,98,2023-06-05,Delivered,Cash on Delivery,359,Lucknow,Uttar Pradesh
+448,48,2022-07-23,Returned,UPI,179699,Lucknow,Uttar Pradesh
+449,5,2022-12-22,Processing,Cash on Delivery,6597,Lucknow,Uttar Pradesh
+450,100,2022-01-31,Cancelled,EMI,14096,Ahmedabad,Gujarat
+451,134,2023-11-26,Delivered,Net Banking,3045,Lucknow,Uttar Pradesh
+452,115,2023-07-10,Delivered,EMI,3198,Ahmedabad,Gujarat
+453,80,2023-12-07,Shipped,Cash on Delivery,2197,Pune,Maharashtra
+454,143,2023-06-30,Delivered,Debit Card,2124,Ahmedabad,Gujarat
+455,196,2022-11-23,Delivered,Debit Card,21748,Mumbai,Maharashtra
+456,158,2022-10-01,Delivered,Credit Card,6797,Ahmedabad,Gujarat
+457,200,2023-05-04,Delivered,EMI,8200,Delhi,Delhi
+458,126,2023-05-01,Delivered,Net Banking,5437,Chandigarh,Punjab
+459,106,2022-08-16,Delivered,Net Banking,21197,Hyderabad,Telangana
+460,177,2022-11-29,Delivered,Net Banking,59324,Bengaluru,Karnataka
+461,147,2023-09-01,Delivered,Net Banking,559,Bengaluru,Karnataka
+462,63,2023-06-16,Shipped,Credit Card,49596,Bengaluru,Karnataka
+463,199,2022-10-20,Returned,EMI,7285,Chandigarh,Punjab
+464,24,2023-05-28,Shipped,EMI,2249,Jaipur,Rajasthan
+465,101,2023-02-28,Delivered,EMI,60596,Lucknow,Uttar Pradesh
+466,83,2023-12-10,Delivered,Net Banking,5780,Surat,Gujarat
+467,135,2023-12-26,Delivered,Credit Card,5592,Chennai,Tamil Nadu
+468,39,2022-06-16,Delivered,UPI,10198,Jaipur,Rajasthan
+469,161,2022-07-05,Returned,Credit Card,898,Kolkata,West Bengal
+470,4,2023-04-15,Cancelled,Debit Card,51247,Chandigarh,Punjab
+471,105,2023-03-29,Delivered,Debit Card,5760,Surat,Gujarat
+472,159,2023-10-06,Delivered,EMI,5999,Ahmedabad,Gujarat
+473,9,2023-11-15,Delivered,Debit Card,26400,Chennai,Tamil Nadu
+474,170,2023-12-10,Delivered,Credit Card,2496,Surat,Gujarat
+475,95,2023-01-24,Cancelled,Credit Card,898,Ahmedabad,Gujarat
+476,35,2022-05-05,Delivered,EMI,14748,Hyderabad,Telangana
+477,147,2023-10-07,Shipped,Cash on Delivery,957,Bengaluru,Karnataka
+478,74,2023-03-14,Processing,UPI,14097,Hyderabad,Telangana
+479,134,2023-10-10,Shipped,Debit Card,7543,Lucknow,Uttar Pradesh
+480,31,2022-08-01,Delivered,EMI,74046,Ahmedabad,Gujarat
+481,73,2022-09-18,Delivered,Cash on Delivery,1400,Pune,Maharashtra
+482,30,2023-12-04,Delivered,Credit Card,5919,Chandigarh,Punjab
+483,87,2023-11-20,Delivered,Cash on Delivery,47594,Chandigarh,Punjab
+484,134,2022-11-03,Delivered,EMI,60500,Lucknow,Uttar Pradesh
+485,72,2022-02-01,Delivered,Net Banking,5895,Mumbai,Maharashtra
+486,181,2022-11-19,Delivered,Net Banking,13000,Delhi,Delhi
+487,116,2022-11-06,Delivered,UPI,1679,Delhi,Delhi
+488,24,2023-03-31,Returned,Debit Card,798,Jaipur,Rajasthan
+489,124,2023-06-21,Cancelled,Cash on Delivery,7818,Kolkata,West Bengal
+490,10,2023-04-16,Returned,EMI,34957,Mumbai,Maharashtra
+491,12,2022-04-16,Delivered,Debit Card,59000,Kolkata,West Bengal
+492,71,2023-06-30,Delivered,UPI,28199,Kolkata,West Bengal
+493,132,2022-04-15,Delivered,UPI,9498,Delhi,Delhi
+494,147,2022-09-08,Delivered,UPI,15660,Bengaluru,Karnataka
+495,34,2022-01-30,Delivered,Debit Card,19887,Mumbai,Maharashtra
+496,180,2023-04-02,Shipped,EMI,11758,Chandigarh,Punjab
+497,146,2022-05-15,Delivered,UPI,891,Surat,Gujarat
+498,182,2023-04-22,Returned,Net Banking,14892,Chandigarh,Punjab
+499,117,2023-05-15,Delivered,UPI,15200,Surat,Gujarat
+500,44,2022-10-17,Delivered,Net Banking,9438,Surat,Gujarat
+501,143,2023-10-28,Delivered,Net Banking,2520,Ahmedabad,Gujarat
+502,62,2023-09-28,Processing,Net Banking,3799,Chandigarh,Punjab
+503,178,2023-08-29,Shipped,Debit Card,20016,Surat,Gujarat
+504,147,2023-05-14,Delivered,UPI,809,Bengaluru,Karnataka
+505,114,2022-06-30,Delivered,Cash on Delivery,18718,Pune,Maharashtra
+506,166,2023-11-08,Delivered,Debit Card,3240,Ahmedabad,Gujarat
+507,1,2022-05-31,Delivered,Cash on Delivery,2788,Mumbai,Maharashtra
+508,53,2023-11-29,Shipped,UPI,6747,Hyderabad,Telangana
+509,131,2023-02-18,Delivered,Cash on Delivery,12300,Mumbai,Maharashtra
+510,144,2023-01-03,Cancelled,Debit Card,5130,Ahmedabad,Gujarat
+511,152,2023-02-08,Delivered,EMI,2146,Delhi,Delhi
+512,143,2023-01-29,Processing,EMI,3648,Ahmedabad,Gujarat
+513,166,2022-01-17,Processing,Debit Card,1796,Ahmedabad,Gujarat
+514,107,2023-04-12,Delivered,Net Banking,7074,Ahmedabad,Gujarat
+515,155,2022-01-08,Returned,Cash on Delivery,23097,Ahmedabad,Gujarat
+516,181,2023-01-13,Delivered,EMI,899,Delhi,Delhi
+517,187,2023-06-24,Delivered,Cash on Delivery,5347,Kolkata,West Bengal
+518,190,2023-11-11,Shipped,UPI,2250,Delhi,Delhi
+519,88,2023-07-02,Delivered,Net Banking,1077,Ahmedabad,Gujarat
+520,85,2023-03-08,Shipped,Cash on Delivery,61197,Hyderabad,Telangana
+521,67,2022-03-04,Shipped,UPI,10634,Surat,Gujarat
+522,125,2022-03-26,Cancelled,UPI,25800,Hyderabad,Telangana
+523,72,2022-10-09,Delivered,Cash on Delivery,27880,Mumbai,Maharashtra
+524,95,2022-06-29,Shipped,Credit Card,8645,Ahmedabad,Gujarat
+525,40,2023-05-23,Delivered,EMI,3512,Hyderabad,Telangana
+526,194,2022-04-29,Delivered,Net Banking,1598,Kolkata,West Bengal
+527,192,2023-06-30,Delivered,Cash on Delivery,1277,Delhi,Delhi
+528,74,2023-04-05,Returned,EMI,73895,Hyderabad,Telangana
+529,86,2022-10-04,Delivered,EMI,12577,Surat,Gujarat
+530,151,2022-07-19,Delivered,Credit Card,4718,Jaipur,Rajasthan
+531,26,2023-06-22,Delivered,EMI,598,Ahmedabad,Gujarat
+532,50,2022-02-04,Delivered,Cash on Delivery,424,Hyderabad,Telangana
+533,154,2023-10-16,Delivered,Cash on Delivery,5600,Mumbai,Maharashtra
+534,169,2023-10-26,Delivered,Net Banking,8752,Kolkata,West Bengal
+535,117,2022-10-11,Delivered,Credit Card,22797,Surat,Gujarat
+536,68,2022-07-02,Delivered,EMI,17522,Ahmedabad,Gujarat
+537,56,2023-09-21,Shipped,Credit Card,299,Chennai,Tamil Nadu
+538,19,2023-08-09,Delivered,EMI,166197,Ahmedabad,Gujarat
+539,69,2022-06-05,Delivered,Net Banking,54528,Hyderabad,Telangana
+540,200,2022-03-13,Returned,Net Banking,55797,Delhi,Delhi
+541,92,2022-12-08,Delivered,UPI,11598,Chandigarh,Punjab
+542,52,2022-06-30,Shipped,UPI,1018,Mumbai,Maharashtra
+543,28,2023-10-08,Shipped,Debit Card,2546,Jaipur,Rajasthan
+544,152,2022-09-02,Delivered,Net Banking,21899,Delhi,Delhi
+545,185,2022-02-13,Returned,Cash on Delivery,19945,Lucknow,Uttar Pradesh
+546,10,2022-05-25,Delivered,EMI,78896,Mumbai,Maharashtra
+547,79,2022-04-10,Cancelled,Credit Card,14092,Chennai,Tamil Nadu
+548,17,2022-07-27,Processing,Cash on Delivery,7827,Bengaluru,Karnataka
+549,152,2022-06-27,Delivered,Net Banking,49100,Delhi,Delhi
+550,43,2023-03-26,Delivered,EMI,21418,Pune,Maharashtra
+551,5,2023-05-14,Delivered,Credit Card,45900,Lucknow,Uttar Pradesh
+552,152,2022-10-18,Delivered,Cash on Delivery,8258,Delhi,Delhi
+553,178,2022-02-08,Returned,EMI,1516,Surat,Gujarat
+554,108,2022-01-05,Processing,Credit Card,12958,Kolkata,West Bengal
+555,130,2022-08-13,Delivered,Debit Card,22522,Lucknow,Uttar Pradesh
+556,172,2022-02-14,Delivered,Net Banking,2598,Pune,Maharashtra
+557,158,2023-04-10,Shipped,Cash on Delivery,2500,Ahmedabad,Gujarat
+558,8,2023-05-12,Cancelled,EMI,22800,Chandigarh,Punjab
+559,149,2022-11-30,Delivered,Credit Card,16594,Kolkata,West Bengal
+560,57,2022-03-17,Delivered,Cash on Delivery,8785,Chandigarh,Punjab
+561,118,2022-07-18,Delivered,EMI,15298,Bengaluru,Karnataka
+562,29,2023-04-22,Cancelled,Cash on Delivery,12141,Chennai,Tamil Nadu
+563,142,2022-08-24,Cancelled,Net Banking,439,Delhi,Delhi
+564,152,2023-04-30,Delivered,Net Banking,56741,Delhi,Delhi
+565,2,2023-03-04,Processing,EMI,52800,Surat,Gujarat
+566,9,2023-03-12,Delivered,Cash on Delivery,7754,Chennai,Tamil Nadu
+567,56,2022-05-16,Delivered,EMI,6297,Chennai,Tamil Nadu
+568,147,2023-08-21,Delivered,Debit Card,837,Bengaluru,Karnataka
+569,104,2022-07-09,Delivered,EMI,35047,Chennai,Tamil Nadu
+570,110,2022-10-04,Cancelled,EMI,5097,Pune,Maharashtra
+571,94,2022-02-22,Delivered,Cash on Delivery,1198,Chandigarh,Punjab
+572,94,2022-06-29,Shipped,Debit Card,3000,Chandigarh,Punjab
+573,62,2023-07-07,Shipped,Cash on Delivery,957,Chandigarh,Punjab
+574,54,2022-08-19,Shipped,UPI,17599,Hyderabad,Telangana
+575,116,2023-05-13,Shipped,EMI,957,Delhi,Delhi
+576,75,2023-04-08,Delivered,Net Banking,19348,Surat,Gujarat
+577,43,2022-10-10,Delivered,Debit Card,3507,Pune,Maharashtra
+578,6,2022-10-28,Delivered,EMI,4161,Kolkata,West Bengal
+579,6,2022-08-26,Shipped,UPI,16953,Kolkata,West Bengal
+580,136,2023-07-16,Cancelled,UPI,5496,Hyderabad,Telangana
+581,74,2022-02-18,Delivered,Debit Card,5759,Hyderabad,Telangana
+582,138,2022-10-20,Delivered,Credit Card,8895,Chandigarh,Punjab
+583,33,2023-03-28,Delivered,Credit Card,9430,Mumbai,Maharashtra
+584,96,2023-04-05,Delivered,Credit Card,6080,Chandigarh,Punjab
+585,118,2022-11-24,Processing,UPI,50150,Bengaluru,Karnataka
+586,122,2022-10-24,Delivered,Credit Card,2294,Delhi,Delhi
+587,36,2023-11-26,Delivered,Cash on Delivery,1120,Pune,Maharashtra
+588,115,2023-01-01,Delivered,EMI,1197,Ahmedabad,Gujarat
+589,135,2022-08-16,Delivered,Net Banking,57457,Chennai,Tamil Nadu
+590,101,2022-07-19,Returned,UPI,19569,Lucknow,Uttar Pradesh
+591,99,2023-01-17,Delivered,UPI,5130,Mumbai,Maharashtra
+592,23,2022-08-09,Cancelled,Net Banking,7815,Pune,Maharashtra
+593,23,2022-05-28,Processing,Cash on Delivery,2597,Pune,Maharashtra
+594,194,2023-01-20,Delivered,UPI,17100,Kolkata,West Bengal
+595,143,2023-04-19,Cancelled,UPI,7647,Ahmedabad,Gujarat
+596,78,2023-08-23,Delivered,Credit Card,4945,Hyderabad,Telangana
+597,163,2023-04-29,Delivered,Net Banking,4590,Ahmedabad,Gujarat
+598,63,2022-01-30,Delivered,Credit Card,17550,Bengaluru,Karnataka
+599,93,2023-08-19,Processing,Credit Card,14946,Delhi,Delhi
+600,67,2022-06-16,Delivered,EMI,2598,Surat,Gujarat
+601,42,2022-02-24,Delivered,UPI,6698,Ahmedabad,Gujarat
+602,50,2023-10-06,Shipped,Cash on Delivery,14600,Hyderabad,Telangana
+603,78,2022-10-05,Delivered,Debit Card,11798,Hyderabad,Telangana
+604,96,2023-05-12,Delivered,Debit Card,19914,Chandigarh,Punjab
+605,135,2023-06-29,Delivered,Credit Card,549,Chennai,Tamil Nadu
+606,5,2023-05-07,Cancelled,Cash on Delivery,5036,Lucknow,Uttar Pradesh
+607,78,2022-01-30,Delivered,EMI,3597,Hyderabad,Telangana
+608,59,2022-11-11,Processing,Net Banking,3398,Chennai,Tamil Nadu
+609,5,2023-05-11,Delivered,Net Banking,53099,Lucknow,Uttar Pradesh
+610,171,2022-01-11,Returned,Debit Card,2520,Mumbai,Maharashtra
+611,48,2023-11-18,Cancelled,UPI,102329,Lucknow,Uttar Pradesh
+612,129,2023-09-20,Delivered,Cash on Delivery,4320,Mumbai,Maharashtra
+613,56,2022-07-16,Processing,Credit Card,45897,Chennai,Tamil Nadu
+614,94,2023-12-16,Delivered,UPI,2943,Chandigarh,Punjab
+615,132,2022-08-22,Delivered,UPI,7262,Delhi,Delhi
+616,22,2022-12-02,Delivered,UPI,10453,Surat,Gujarat
+617,75,2023-03-15,Returned,UPI,9197,Surat,Gujarat
+618,126,2023-11-20,Delivered,EMI,424,Chandigarh,Punjab
+619,31,2022-05-27,Delivered,Debit Card,8995,Ahmedabad,Gujarat
+620,60,2023-03-11,Delivered,Cash on Delivery,16809,Mumbai,Maharashtra
+621,197,2023-04-11,Delivered,Net Banking,8400,Bengaluru,Karnataka
+622,35,2022-01-31,Cancelled,Net Banking,2975,Hyderabad,Telangana
+623,46,2023-01-27,Delivered,Credit Card,6540,Ahmedabad,Gujarat
+624,52,2022-10-28,Delivered,Cash on Delivery,10034,Mumbai,Maharashtra
+625,99,2023-04-06,Delivered,Debit Card,3097,Mumbai,Maharashtra
+626,43,2023-05-19,Shipped,Cash on Delivery,7091,Pune,Maharashtra
+627,139,2023-08-09,Delivered,UPI,11394,Chandigarh,Punjab
+628,91,2022-10-19,Delivered,UPI,176399,Jaipur,Rajasthan
+629,196,2023-10-03,Delivered,UPI,4794,Mumbai,Maharashtra
+630,63,2022-09-11,Delivered,EMI,3699,Bengaluru,Karnataka
+631,87,2022-06-23,Delivered,Net Banking,4250,Chandigarh,Punjab
+632,146,2023-06-12,Delivered,UPI,126345,Surat,Gujarat
+633,26,2023-05-16,Delivered,Cash on Delivery,8397,Ahmedabad,Gujarat
+634,87,2022-06-20,Delivered,Credit Card,8274,Chandigarh,Punjab
+635,68,2022-02-18,Delivered,Credit Card,6541,Ahmedabad,Gujarat
+636,87,2022-10-07,Cancelled,Net Banking,1140,Chandigarh,Punjab
+637,89,2022-03-20,Shipped,UPI,7298,Lucknow,Uttar Pradesh
+638,160,2023-06-12,Cancelled,Cash on Delivery,166625,Lucknow,Uttar Pradesh
+639,69,2023-10-16,Delivered,Debit Card,19795,Hyderabad,Telangana
+640,112,2023-02-25,Delivered,UPI,14149,Pune,Maharashtra
+641,154,2022-08-30,Delivered,UPI,17474,Mumbai,Maharashtra
+642,166,2022-02-07,Delivered,UPI,16878,Ahmedabad,Gujarat
+643,141,2022-06-30,Shipped,Credit Card,359,Jaipur,Rajasthan
+644,81,2023-09-09,Shipped,Credit Card,24556,Ahmedabad,Gujarat
+645,29,2023-08-08,Shipped,Cash on Delivery,1677,Chennai,Tamil Nadu
+646,65,2023-05-24,Delivered,UPI,2097,Pune,Maharashtra
+647,189,2023-02-04,Delivered,Debit Card,7896,Chennai,Tamil Nadu
+648,105,2022-09-18,Delivered,EMI,898,Surat,Gujarat
+649,140,2023-03-10,Delivered,UPI,12552,Chennai,Tamil Nadu
+650,9,2023-11-10,Delivered,Net Banking,2097,Chennai,Tamil Nadu
+651,180,2023-01-07,Cancelled,Net Banking,2375,Chandigarh,Punjab
+652,101,2022-09-19,Delivered,Debit Card,8738,Lucknow,Uttar Pradesh
+653,105,2022-02-04,Shipped,UPI,2761,Surat,Gujarat
+654,179,2022-09-25,Delivered,EMI,2397,Bengaluru,Karnataka
+655,189,2022-12-01,Shipped,Debit Card,121595,Chennai,Tamil Nadu
+656,81,2023-08-13,Delivered,Cash on Delivery,7140,Ahmedabad,Gujarat
+657,196,2022-05-14,Delivered,EMI,2064,Mumbai,Maharashtra
+658,107,2023-01-12,Returned,Cash on Delivery,1098,Ahmedabad,Gujarat
+659,143,2023-10-25,Delivered,EMI,1239,Ahmedabad,Gujarat
+660,103,2023-09-25,Returned,Debit Card,12507,Hyderabad,Telangana
+661,112,2023-04-10,Returned,UPI,20795,Pune,Maharashtra
+662,111,2022-07-31,Delivered,Net Banking,3839,Surat,Gujarat
+663,75,2022-09-26,Returned,UPI,2154,Surat,Gujarat
+664,118,2022-03-29,Delivered,UPI,678,Bengaluru,Karnataka
+665,176,2022-08-06,Delivered,Credit Card,26498,Lucknow,Uttar Pradesh
+666,156,2023-11-18,Delivered,Cash on Delivery,34200,Hyderabad,Telangana
+667,102,2023-11-19,Delivered,UPI,48497,Bengaluru,Karnataka
+668,120,2022-05-16,Shipped,Net Banking,798,Delhi,Delhi
+669,30,2022-11-17,Delivered,UPI,848,Chandigarh,Punjab
+670,111,2022-10-17,Delivered,Debit Card,8596,Surat,Gujarat
+671,143,2023-11-05,Delivered,Net Banking,17493,Ahmedabad,Gujarat
+672,30,2023-05-22,Delivered,EMI,538,Chandigarh,Punjab
+673,118,2023-05-20,Delivered,Credit Card,2598,Bengaluru,Karnataka
+674,47,2022-06-22,Delivered,Credit Card,10347,Bengaluru,Karnataka
+675,20,2022-09-10,Shipped,EMI,180800,Surat,Gujarat
+676,83,2022-06-07,Delivered,EMI,2040,Surat,Gujarat
+677,117,2023-10-06,Returned,EMI,50310,Surat,Gujarat
+678,188,2023-08-06,Cancelled,UPI,13999,Bengaluru,Karnataka
+679,19,2023-07-15,Delivered,Net Banking,9897,Ahmedabad,Gujarat
+680,200,2023-02-17,Delivered,Net Banking,12918,Delhi,Delhi
+681,34,2023-01-03,Delivered,Net Banking,2468,Mumbai,Maharashtra
+682,122,2022-10-02,Delivered,EMI,6217,Delhi,Delhi
+683,119,2023-11-24,Delivered,EMI,1977,Lucknow,Uttar Pradesh
+684,120,2023-03-24,Delivered,Debit Card,678,Delhi,Delhi
+685,64,2023-06-20,Delivered,Credit Card,13860,Kolkata,West Bengal
+686,25,2023-04-21,Delivered,Cash on Delivery,13296,Bengaluru,Karnataka
+687,119,2022-07-03,Delivered,EMI,66998,Lucknow,Uttar Pradesh
+688,186,2023-04-11,Delivered,Credit Card,20311,Surat,Gujarat
+689,112,2023-07-02,Delivered,Credit Card,54000,Pune,Maharashtra
+690,123,2023-04-17,Cancelled,Cash on Delivery,16644,Kolkata,West Bengal
+691,102,2022-11-06,Delivered,Debit Card,499,Bengaluru,Karnataka
+692,179,2022-07-12,Delivered,Debit Card,2974,Bengaluru,Karnataka
+693,112,2023-10-04,Shipped,Debit Card,3610,Pune,Maharashtra
+694,30,2022-06-20,Delivered,Net Banking,673,Chandigarh,Punjab
+695,76,2023-08-07,Delivered,EMI,73625,Lucknow,Uttar Pradesh
+696,153,2023-07-22,Delivered,Cash on Delivery,58094,Hyderabad,Telangana
+697,60,2022-03-04,Delivered,Cash on Delivery,898,Mumbai,Maharashtra
+698,166,2023-03-04,Delivered,Net Banking,6194,Ahmedabad,Gujarat
+699,121,2022-12-19,Returned,EMI,16571,Chandigarh,Punjab
+700,183,2023-02-04,Delivered,EMI,3903,Lucknow,Uttar Pradesh
+701,45,2022-07-24,Delivered,Net Banking,6507,Lucknow,Uttar Pradesh
+702,54,2023-07-25,Delivered,UPI,165000,Hyderabad,Telangana
+703,41,2022-06-28,Delivered,Credit Card,7200,Mumbai,Maharashtra
+704,31,2023-07-30,Processing,UPI,8039,Ahmedabad,Gujarat
+705,69,2022-06-04,Returned,Net Banking,5600,Hyderabad,Telangana
+706,194,2022-04-24,Delivered,Credit Card,1197,Kolkata,West Bengal
+707,11,2023-06-04,Delivered,Debit Card,799,Delhi,Delhi
+708,187,2022-10-27,Delivered,UPI,5877,Kolkata,West Bengal
+709,107,2022-01-07,Delivered,Debit Card,9798,Ahmedabad,Gujarat
+710,184,2023-03-01,Delivered,Debit Card,5394,Hyderabad,Telangana
+711,118,2023-06-13,Shipped,EMI,133278,Bengaluru,Karnataka
+712,87,2022-11-19,Shipped,EMI,6072,Chandigarh,Punjab
+713,183,2023-11-08,Cancelled,EMI,3057,Lucknow,Uttar Pradesh
+714,72,2023-06-25,Delivered,Cash on Delivery,2154,Mumbai,Maharashtra
+715,114,2023-12-16,Delivered,Cash on Delivery,14195,Pune,Maharashtra
+716,190,2022-05-10,Delivered,Cash on Delivery,13497,Delhi,Delhi
+717,8,2023-07-07,Processing,Credit Card,3738,Chandigarh,Punjab
+718,161,2023-06-04,Delivered,EMI,12899,Kolkata,West Bengal
+719,191,2023-08-19,Delivered,EMI,3957,Jaipur,Rajasthan
+720,183,2023-01-22,Delivered,Debit Card,4638,Lucknow,Uttar Pradesh
+721,26,2022-05-31,Cancelled,Net Banking,10645,Ahmedabad,Gujarat
+722,135,2023-02-17,Processing,EMI,11682,Chennai,Tamil Nadu
+723,130,2022-05-11,Delivered,Debit Card,6932,Lucknow,Uttar Pradesh
+724,144,2023-01-14,Cancelled,Credit Card,6400,Ahmedabad,Gujarat
+725,147,2022-10-24,Delivered,UPI,1398,Bengaluru,Karnataka
+726,78,2022-10-29,Delivered,UPI,60094,Hyderabad,Telangana
+727,1,2022-05-06,Delivered,UPI,54988,Mumbai,Maharashtra
+728,122,2023-09-13,Delivered,Net Banking,2378,Delhi,Delhi
+729,187,2022-11-30,Shipped,Net Banking,474,Kolkata,West Bengal
+730,102,2022-12-14,Shipped,EMI,299,Bengaluru,Karnataka
+731,182,2022-01-26,Delivered,Cash on Delivery,9810,Chandigarh,Punjab
+732,134,2022-07-13,Delivered,Credit Card,72700,Lucknow,Uttar Pradesh
+733,114,2022-03-28,Delivered,Credit Card,45897,Pune,Maharashtra
+734,7,2023-06-25,Delivered,Credit Card,7379,Pune,Maharashtra
+735,47,2022-09-19,Delivered,Net Banking,1104,Bengaluru,Karnataka
+736,16,2023-09-22,Delivered,Credit Card,119499,Chandigarh,Punjab
+737,67,2023-01-20,Delivered,Cash on Delivery,3150,Surat,Gujarat
+738,127,2023-06-05,Delivered,Net Banking,20297,Jaipur,Rajasthan
+739,60,2022-01-20,Delivered,Cash on Delivery,9178,Mumbai,Maharashtra
+740,105,2023-04-02,Delivered,Debit Card,5400,Surat,Gujarat
+741,44,2022-09-09,Cancelled,Cash on Delivery,44799,Surat,Gujarat
+742,124,2022-10-07,Delivered,Cash on Delivery,12095,Kolkata,West Bengal
+743,137,2023-07-31,Delivered,EMI,1400,Bengaluru,Karnataka
+744,186,2023-07-24,Delivered,UPI,10534,Surat,Gujarat
+745,193,2023-12-26,Delivered,Cash on Delivery,22496,Delhi,Delhi
+746,1,2023-09-16,Cancelled,EMI,46119,Mumbai,Maharashtra
+747,167,2022-03-21,Shipped,UPI,478,Ahmedabad,Gujarat
+748,154,2023-01-02,Delivered,Debit Card,27786,Mumbai,Maharashtra
+749,195,2022-10-15,Delivered,EMI,6397,Chandigarh,Punjab
+750,10,2022-10-15,Processing,EMI,69535,Mumbai,Maharashtra
+751,127,2022-06-24,Delivered,Credit Card,9720,Jaipur,Rajasthan
+752,17,2022-05-11,Shipped,UPI,6896,Bengaluru,Karnataka
+753,174,2023-06-30,Returned,EMI,34722,Chennai,Tamil Nadu
+754,111,2023-02-21,Delivered,Cash on Delivery,4196,Surat,Gujarat
+755,13,2022-10-12,Delivered,UPI,26996,Jaipur,Rajasthan
+756,177,2023-03-10,Delivered,UPI,699,Bengaluru,Karnataka
+757,161,2023-10-03,Delivered,Credit Card,148500,Kolkata,West Bengal
+758,86,2022-09-14,Delivered,UPI,2638,Surat,Gujarat
+759,134,2022-08-31,Delivered,Credit Card,5440,Lucknow,Uttar Pradesh
+760,149,2022-05-08,Returned,Net Banking,10500,Kolkata,West Bengal
+761,17,2022-05-11,Delivered,Cash on Delivery,508,Bengaluru,Karnataka
+762,17,2022-04-15,Delivered,Net Banking,1425,Bengaluru,Karnataka
+763,159,2023-02-25,Delivered,Net Banking,7502,Ahmedabad,Gujarat
+764,159,2022-04-14,Delivered,Debit Card,57446,Ahmedabad,Gujarat
+765,183,2022-03-11,Delivered,UPI,3398,Lucknow,Uttar Pradesh
+766,186,2023-09-28,Delivered,UPI,47332,Surat,Gujarat
+767,80,2023-08-21,Delivered,UPI,2997,Pune,Maharashtra
+768,133,2023-08-24,Delivered,Cash on Delivery,3918,Chennai,Tamil Nadu
+769,89,2022-07-20,Delivered,EMI,31347,Lucknow,Uttar Pradesh
+770,120,2023-09-07,Delivered,Net Banking,11099,Delhi,Delhi
+771,11,2023-05-23,Shipped,Net Banking,17279,Delhi,Delhi
+772,124,2022-12-06,Delivered,Credit Card,25495,Kolkata,West Bengal
+773,75,2023-03-27,Delivered,Credit Card,3497,Surat,Gujarat
+774,45,2022-08-13,Delivered,Debit Card,12999,Lucknow,Uttar Pradesh
+775,6,2023-11-25,Delivered,Debit Card,3998,Kolkata,West Bengal
+776,95,2023-01-17,Cancelled,EMI,1198,Ahmedabad,Gujarat
+777,34,2022-07-14,Shipped,UPI,6117,Mumbai,Maharashtra
+778,63,2022-02-17,Shipped,UPI,7900,Bengaluru,Karnataka
+779,72,2022-05-10,Delivered,Cash on Delivery,15098,Mumbai,Maharashtra
+780,133,2023-04-21,Delivered,Net Banking,2886,Chennai,Tamil Nadu
+781,69,2023-08-19,Cancelled,Net Banking,40636,Hyderabad,Telangana
+782,109,2023-01-22,Delivered,Debit Card,6159,Chennai,Tamil Nadu
+783,114,2023-06-16,Delivered,Cash on Delivery,48196,Pune,Maharashtra
+784,111,2023-02-23,Delivered,Debit Card,19710,Surat,Gujarat
+785,20,2023-01-03,Cancelled,Cash on Delivery,4860,Surat,Gujarat
+786,21,2022-10-11,Delivered,Credit Card,7290,Ahmedabad,Gujarat
+787,51,2023-11-23,Delivered,Cash on Delivery,33300,Bengaluru,Karnataka
+788,67,2022-01-09,Returned,Cash on Delivery,5917,Surat,Gujarat
+789,168,2023-06-09,Delivered,EMI,2197,Pune,Maharashtra
+790,133,2023-08-25,Cancelled,Net Banking,9635,Chennai,Tamil Nadu
+791,116,2023-07-26,Delivered,Debit Card,3897,Delhi,Delhi
+792,3,2023-05-27,Delivered,Net Banking,14555,Delhi,Delhi
+793,84,2023-08-25,Shipped,Debit Card,2400,Hyderabad,Telangana
+794,146,2023-10-07,Delivered,Debit Card,23839,Surat,Gujarat
+795,164,2022-11-08,Delivered,Cash on Delivery,799,Hyderabad,Telangana
+796,177,2023-09-10,Returned,Net Banking,87497,Bengaluru,Karnataka
+797,135,2022-03-13,Delivered,Net Banking,56523,Chennai,Tamil Nadu
+798,108,2023-05-05,Returned,Debit Card,599,Kolkata,West Bengal
+799,80,2023-03-19,Delivered,Cash on Delivery,10707,Pune,Maharashtra
+800,2,2022-05-27,Delivered,Cash on Delivery,25932,Surat,Gujarat
+801,189,2022-04-04,Delivered,Debit Card,5271,Chennai,Tamil Nadu
+802,188,2023-03-19,Delivered,Credit Card,16697,Bengaluru,Karnataka
+803,75,2023-11-14,Returned,Net Banking,8397,Surat,Gujarat
+804,32,2023-01-13,Delivered,UPI,4750,Kolkata,West Bengal
+805,43,2022-09-16,Delivered,Credit Card,60690,Pune,Maharashtra
+806,192,2023-04-18,Delivered,Credit Card,68420,Delhi,Delhi
+807,119,2023-05-12,Shipped,Net Banking,20599,Lucknow,Uttar Pradesh
+808,5,2023-09-14,Delivered,Cash on Delivery,4248,Lucknow,Uttar Pradesh
+809,44,2022-03-21,Delivered,UPI,6500,Surat,Gujarat
+810,183,2022-02-05,Cancelled,Cash on Delivery,9687,Lucknow,Uttar Pradesh
+811,169,2022-04-16,Delivered,Net Banking,9519,Kolkata,West Bengal
+812,52,2022-04-04,Delivered,Credit Card,549,Mumbai,Maharashtra
+813,175,2023-11-17,Returned,Credit Card,2877,Pune,Maharashtra
+814,43,2022-06-21,Delivered,UPI,1647,Pune,Maharashtra
+815,161,2022-07-14,Returned,Credit Card,2999,Kolkata,West Bengal
+816,92,2022-11-28,Shipped,Credit Card,18048,Chandigarh,Punjab
+817,57,2022-03-09,Delivered,Debit Card,46450,Chandigarh,Punjab
+818,27,2023-12-31,Delivered,EMI,11815,Hyderabad,Telangana
+819,198,2023-12-12,Delivered,EMI,18498,Pune,Maharashtra
+820,18,2022-12-10,Returned,Net Banking,9120,Pune,Maharashtra
+821,164,2022-08-27,Delivered,Credit Card,1199,Hyderabad,Telangana
+822,189,2023-03-15,Delivered,UPI,2088,Chennai,Tamil Nadu
+823,39,2023-01-20,Returned,Cash on Delivery,64028,Jaipur,Rajasthan
+824,35,2022-10-12,Delivered,UPI,19476,Hyderabad,Telangana
+825,85,2022-12-17,Delivered,EMI,17997,Hyderabad,Telangana
+826,185,2022-08-16,Delivered,Credit Card,3675,Lucknow,Uttar Pradesh
+827,163,2022-05-25,Delivered,Cash on Delivery,1359,Ahmedabad,Gujarat
+828,130,2022-03-22,Delivered,Debit Card,12369,Lucknow,Uttar Pradesh
+829,115,2023-10-13,Delivered,UPI,12729,Ahmedabad,Gujarat
+830,121,2023-03-28,Cancelled,Net Banking,7645,Chandigarh,Punjab
+831,153,2023-07-05,Delivered,Net Banking,7998,Hyderabad,Telangana
+832,97,2023-07-30,Delivered,Debit Card,24194,Kolkata,West Bengal
+833,96,2023-05-19,Delivered,EMI,3100,Chandigarh,Punjab
+834,99,2023-08-03,Returned,EMI,10344,Mumbai,Maharashtra
+835,126,2023-10-13,Shipped,Debit Card,5744,Chandigarh,Punjab
+836,181,2023-11-24,Delivered,Net Banking,1104,Delhi,Delhi
+837,66,2022-09-11,Shipped,EMI,35360,Bengaluru,Karnataka
+838,181,2023-08-24,Returned,Net Banking,1398,Delhi,Delhi
+839,65,2023-12-10,Delivered,EMI,8074,Pune,Maharashtra
+840,163,2023-08-10,Returned,Net Banking,10707,Ahmedabad,Gujarat
+841,126,2022-01-02,Shipped,Net Banking,14400,Chandigarh,Punjab
+842,168,2022-10-23,Delivered,Debit Card,9173,Pune,Maharashtra
+843,48,2022-07-25,Cancelled,Debit Card,4998,Lucknow,Uttar Pradesh
+844,113,2023-10-04,Delivered,Credit Card,759,Ahmedabad,Gujarat
+845,71,2022-03-07,Delivered,EMI,45278,Kolkata,West Bengal
+846,69,2022-01-08,Delivered,Credit Card,7125,Hyderabad,Telangana
+847,134,2022-09-30,Delivered,EMI,13045,Lucknow,Uttar Pradesh
+848,103,2023-01-23,Cancelled,Credit Card,1998,Hyderabad,Telangana
+849,179,2023-02-16,Delivered,Cash on Delivery,168200,Bengaluru,Karnataka
+850,95,2023-04-08,Processing,UPI,63497,Ahmedabad,Gujarat
+851,84,2023-11-26,Shipped,Credit Card,11642,Hyderabad,Telangana
+852,26,2023-01-30,Cancelled,Cash on Delivery,15916,Ahmedabad,Gujarat
+853,33,2023-05-25,Cancelled,Cash on Delivery,2240,Mumbai,Maharashtra
+854,44,2023-04-02,Shipped,Debit Card,399,Surat,Gujarat
+855,44,2023-11-07,Delivered,EMI,2500,Surat,Gujarat
+856,84,2023-01-28,Returned,EMI,7994,Hyderabad,Telangana
+857,163,2023-05-19,Cancelled,Cash on Delivery,10800,Ahmedabad,Gujarat
+858,17,2023-10-22,Cancelled,Debit Card,4048,Bengaluru,Karnataka
+859,29,2022-04-02,Delivered,Debit Card,12956,Chennai,Tamil Nadu
+860,189,2022-01-02,Delivered,Net Banking,15483,Chennai,Tamil Nadu
+861,33,2023-06-17,Delivered,Net Banking,3498,Mumbai,Maharashtra
+862,57,2023-05-27,Delivered,UPI,69027,Chandigarh,Punjab
+863,147,2023-05-05,Shipped,Net Banking,2698,Bengaluru,Karnataka
+864,184,2022-08-04,Cancelled,EMI,13772,Hyderabad,Telangana
+865,41,2022-01-23,Shipped,Net Banking,17643,Mumbai,Maharashtra
+866,179,2022-07-19,Cancelled,Credit Card,9593,Bengaluru,Karnataka
+867,42,2023-08-15,Delivered,Debit Card,1496,Ahmedabad,Gujarat
+868,51,2023-10-29,Shipped,Cash on Delivery,3897,Bengaluru,Karnataka
+869,38,2023-01-21,Processing,Debit Card,20797,Chandigarh,Punjab
+870,152,2023-03-21,Delivered,Debit Card,2276,Delhi,Delhi
+871,177,2023-09-03,Shipped,EMI,4558,Bengaluru,Karnataka
+872,168,2023-04-01,Delivered,EMI,49300,Pune,Maharashtra
+873,151,2023-08-10,Delivered,EMI,19716,Jaipur,Rajasthan
+874,26,2022-11-30,Delivered,EMI,5000,Ahmedabad,Gujarat
+875,143,2023-07-04,Shipped,EMI,13496,Ahmedabad,Gujarat
+876,154,2023-12-13,Delivered,UPI,19500,Mumbai,Maharashtra
+877,148,2022-07-31,Delivered,Credit Card,5700,Bengaluru,Karnataka
+878,77,2023-01-08,Delivered,Credit Card,49408,Surat,Gujarat
+879,137,2023-04-01,Shipped,Cash on Delivery,4947,Bengaluru,Karnataka
+880,131,2022-08-03,Delivered,Debit Card,44000,Mumbai,Maharashtra
+881,56,2022-05-18,Delivered,EMI,2517,Chennai,Tamil Nadu
+882,141,2022-09-19,Delivered,UPI,3479,Jaipur,Rajasthan
+883,138,2022-07-28,Processing,EMI,5525,Chandigarh,Punjab
+884,183,2023-01-17,Delivered,Net Banking,4224,Lucknow,Uttar Pradesh
+885,64,2022-03-21,Delivered,UPI,9180,Kolkata,West Bengal
+886,200,2022-10-07,Delivered,Net Banking,8898,Delhi,Delhi
+887,32,2022-06-29,Delivered,EMI,7330,Kolkata,West Bengal
+888,156,2022-04-12,Delivered,Net Banking,1598,Hyderabad,Telangana
+889,190,2023-11-26,Delivered,Cash on Delivery,5775,Delhi,Delhi
+890,97,2023-08-05,Shipped,Net Banking,8242,Kolkata,West Bengal
+891,91,2023-04-25,Returned,Debit Card,21347,Jaipur,Rajasthan
+892,105,2022-11-17,Delivered,Debit Card,1200,Surat,Gujarat
+893,148,2022-02-28,Delivered,Net Banking,1440,Bengaluru,Karnataka
+894,109,2023-11-25,Delivered,EMI,1481,Chennai,Tamil Nadu
+895,104,2022-01-15,Shipped,EMI,19347,Chennai,Tamil Nadu
+896,170,2023-06-25,Delivered,Debit Card,8160,Surat,Gujarat
+897,58,2022-06-29,Cancelled,Cash on Delivery,1299,Chandigarh,Punjab
+898,109,2023-05-23,Returned,Debit Card,14636,Chennai,Tamil Nadu
+899,124,2022-10-28,Delivered,UPI,26262,Kolkata,West Bengal
+900,159,2023-05-15,Delivered,Net Banking,1998,Ahmedabad,Gujarat
+901,91,2022-04-20,Cancelled,Debit Card,1898,Jaipur,Rajasthan
+902,3,2022-04-14,Delivered,Debit Card,7929,Delhi,Delhi
+903,197,2023-11-04,Delivered,UPI,3224,Bengaluru,Karnataka
+904,28,2023-03-26,Delivered,EMI,3745,Jaipur,Rajasthan
+905,35,2023-02-09,Returned,EMI,59095,Hyderabad,Telangana
+906,127,2023-11-30,Delivered,EMI,1037,Jaipur,Rajasthan
+907,29,2022-04-21,Delivered,Cash on Delivery,1497,Chennai,Tamil Nadu
+908,61,2022-02-23,Delivered,UPI,40098,Jaipur,Rajasthan
+909,64,2023-09-25,Delivered,Credit Card,8877,Kolkata,West Bengal
+910,64,2023-11-14,Delivered,Debit Card,15594,Kolkata,West Bengal
+911,59,2022-05-04,Delivered,Debit Card,22998,Chennai,Tamil Nadu
+912,158,2022-07-24,Delivered,Cash on Delivery,10500,Ahmedabad,Gujarat
+913,163,2022-08-25,Delivered,Cash on Delivery,13252,Ahmedabad,Gujarat
+914,78,2022-04-23,Shipped,Debit Card,8798,Hyderabad,Telangana
+915,1,2022-02-23,Delivered,Cash on Delivery,9596,Mumbai,Maharashtra
+916,126,2023-01-08,Shipped,EMI,10800,Chandigarh,Punjab
+917,190,2023-01-06,Delivered,Credit Card,30696,Delhi,Delhi
+918,155,2022-05-04,Returned,EMI,719,Ahmedabad,Gujarat
+919,50,2023-12-23,Delivered,EMI,32774,Hyderabad,Telangana
+920,12,2022-05-11,Shipped,Cash on Delivery,4098,Kolkata,West Bengal
+921,162,2022-05-01,Returned,Cash on Delivery,9154,Lucknow,Uttar Pradesh
+922,179,2022-05-13,Shipped,EMI,75400,Bengaluru,Karnataka
+923,176,2023-06-30,Delivered,Cash on Delivery,2277,Lucknow,Uttar Pradesh
+924,200,2023-02-04,Delivered,Cash on Delivery,40096,Delhi,Delhi
+925,117,2023-05-31,Shipped,Cash on Delivery,4399,Surat,Gujarat
+926,137,2022-09-01,Returned,UPI,25917,Bengaluru,Karnataka
+927,54,2023-07-02,Delivered,EMI,32400,Hyderabad,Telangana
+928,84,2022-03-27,Delivered,Credit Card,1782,Hyderabad,Telangana
+929,188,2022-10-14,Delivered,Cash on Delivery,174600,Bengaluru,Karnataka
+930,177,2023-01-27,Cancelled,Debit Card,18397,Bengaluru,Karnataka
+931,162,2023-02-09,Shipped,Net Banking,2697,Lucknow,Uttar Pradesh
+932,24,2023-05-23,Cancelled,Debit Card,6045,Jaipur,Rajasthan
+933,187,2022-07-04,Cancelled,Net Banking,142119,Kolkata,West Bengal
+934,37,2022-03-15,Shipped,Debit Card,6159,Pune,Maharashtra
+935,99,2022-01-22,Shipped,EMI,18000,Mumbai,Maharashtra
+936,64,2022-03-27,Shipped,Credit Card,51919,Kolkata,West Bengal
+937,87,2023-12-26,Delivered,Cash on Delivery,2849,Chandigarh,Punjab
+938,79,2022-12-06,Shipped,EMI,7198,Chennai,Tamil Nadu
+939,140,2022-10-31,Cancelled,Net Banking,1800,Chennai,Tamil Nadu
+940,58,2022-01-25,Delivered,EMI,2246,Chandigarh,Punjab
+941,99,2023-12-05,Delivered,Credit Card,449,Mumbai,Maharashtra
+942,73,2023-01-01,Delivered,UPI,499,Pune,Maharashtra
+943,155,2022-06-04,Delivered,Debit Card,1358,Ahmedabad,Gujarat
+944,171,2023-12-05,Cancelled,UPI,6740,Mumbai,Maharashtra
+945,183,2022-03-20,Shipped,Debit Card,1299,Lucknow,Uttar Pradesh
+946,100,2023-04-03,Returned,UPI,15249,Ahmedabad,Gujarat
+947,197,2023-01-30,Delivered,Net Banking,2289,Bengaluru,Karnataka
+948,168,2022-09-09,Delivered,Cash on Delivery,10348,Pune,Maharashtra
+949,184,2023-03-08,Delivered,Debit Card,2078,Hyderabad,Telangana
+950,143,2023-05-01,Returned,UPI,7840,Ahmedabad,Gujarat
+951,118,2022-05-28,Shipped,Credit Card,15719,Bengaluru,Karnataka
+952,7,2023-12-14,Delivered,Cash on Delivery,7277,Pune,Maharashtra
+953,37,2022-03-22,Delivered,Net Banking,44000,Pune,Maharashtra
+954,191,2022-05-24,Delivered,EMI,5098,Jaipur,Rajasthan
+955,40,2022-03-03,Shipped,Cash on Delivery,3200,Hyderabad,Telangana
+956,102,2023-03-10,Delivered,Debit Card,13775,Bengaluru,Karnataka
+957,97,2022-05-09,Delivered,Net Banking,2994,Kolkata,West Bengal
+958,155,2022-03-21,Delivered,UPI,2374,Ahmedabad,Gujarat
+959,27,2022-03-21,Delivered,Debit Card,56430,Hyderabad,Telangana
+960,153,2022-01-12,Delivered,Credit Card,68847,Hyderabad,Telangana
+961,124,2022-02-16,Delivered,UPI,798,Kolkata,West Bengal
+962,193,2022-10-17,Shipped,Debit Card,8665,Delhi,Delhi
+963,190,2023-05-31,Cancelled,Debit Card,5400,Delhi,Delhi
+964,98,2023-05-04,Delivered,EMI,1710,Lucknow,Uttar Pradesh
+965,161,2022-04-06,Shipped,Debit Card,12954,Kolkata,West Bengal
+966,156,2023-10-30,Delivered,Cash on Delivery,11677,Hyderabad,Telangana
+967,199,2023-12-01,Delivered,Debit Card,11514,Chandigarh,Punjab
+968,37,2022-11-13,Delivered,UPI,898,Pune,Maharashtra
+969,42,2022-03-11,Delivered,Debit Card,5946,Ahmedabad,Gujarat
+970,66,2023-03-29,Delivered,UPI,6400,Bengaluru,Karnataka
+971,105,2023-09-27,Delivered,Cash on Delivery,1897,Surat,Gujarat
+972,175,2023-02-28,Shipped,Debit Card,30259,Pune,Maharashtra
+973,75,2023-01-20,Cancelled,Debit Card,3702,Surat,Gujarat
+974,24,2022-12-24,Delivered,Credit Card,10069,Jaipur,Rajasthan
+975,17,2022-11-21,Shipped,Net Banking,10797,Bengaluru,Karnataka
+976,140,2022-06-09,Delivered,Cash on Delivery,7435,Chennai,Tamil Nadu
+977,122,2022-08-07,Cancelled,EMI,6648,Delhi,Delhi
+978,65,2023-10-13,Delivered,Net Banking,6297,Pune,Maharashtra
+979,116,2023-03-06,Cancelled,Credit Card,10828,Delhi,Delhi
+980,43,2022-07-23,Shipped,Debit Card,7987,Pune,Maharashtra
+981,147,2023-02-03,Shipped,Cash on Delivery,1500,Bengaluru,Karnataka
+982,186,2023-11-15,Delivered,Net Banking,36798,Surat,Gujarat
+983,30,2023-11-22,Returned,Debit Card,53376,Chandigarh,Punjab
+984,10,2022-08-12,Shipped,Cash on Delivery,5272,Mumbai,Maharashtra
+985,54,2022-07-15,Cancelled,Credit Card,2598,Hyderabad,Telangana
+986,129,2022-05-08,Delivered,UPI,8445,Mumbai,Maharashtra
+987,46,2023-07-21,Delivered,EMI,7139,Ahmedabad,Gujarat
+988,163,2022-10-18,Cancelled,Credit Card,3600,Ahmedabad,Gujarat
+989,5,2023-09-24,Delivered,Net Banking,13001,Lucknow,Uttar Pradesh
+990,108,2022-08-05,Delivered,Debit Card,1758,Kolkata,West Bengal
+991,90,2023-04-21,Delivered,UPI,36713,Chandigarh,Punjab
+992,62,2022-01-05,Shipped,Cash on Delivery,186078,Chandigarh,Punjab
+993,44,2023-08-09,Delivered,Net Banking,7356,Surat,Gujarat
+994,163,2023-02-04,Delivered,Net Banking,1696,Ahmedabad,Gujarat
+995,33,2023-06-01,Shipped,EMI,3600,Mumbai,Maharashtra
+996,41,2022-11-27,Delivered,EMI,46880,Mumbai,Maharashtra
+997,8,2023-09-25,Delivered,EMI,1020,Chandigarh,Punjab
+998,117,2023-10-12,Delivered,Cash on Delivery,5594,Surat,Gujarat
+999,198,2022-09-24,Delivered,Debit Card,5525,Pune,Maharashtra
+1000,164,2023-08-17,Delivered,Cash on Delivery,2800,Hyderabad,Telangana
+1001,37,2022-10-17,Delivered,UPI,10319,Pune,Maharashtra
+1002,126,2022-01-23,Delivered,UPI,17890,Chandigarh,Punjab
+1003,3,2022-07-02,Processing,UPI,7980,Delhi,Delhi
+1004,154,2023-07-14,Delivered,UPI,799,Mumbai,Maharashtra
+1005,156,2022-01-31,Delivered,Debit Card,1398,Hyderabad,Telangana
+1006,30,2022-08-11,Delivered,Credit Card,1017,Chandigarh,Punjab
+1007,33,2022-10-02,Delivered,Cash on Delivery,8836,Mumbai,Maharashtra
+1008,127,2023-03-23,Returned,Credit Card,21956,Jaipur,Rajasthan
+1009,185,2023-05-15,Cancelled,Cash on Delivery,14695,Lucknow,Uttar Pradesh
+1010,146,2022-12-28,Cancelled,Cash on Delivery,26196,Surat,Gujarat
+1011,155,2023-10-23,Delivered,UPI,107634,Ahmedabad,Gujarat
+1012,19,2022-08-09,Delivered,UPI,5094,Ahmedabad,Gujarat
+1013,55,2023-04-22,Delivered,Cash on Delivery,13097,Chandigarh,Punjab
+1014,144,2022-10-12,Cancelled,Net Banking,2040,Ahmedabad,Gujarat
+1015,82,2022-11-24,Cancelled,Net Banking,12998,Surat,Gujarat
+1016,31,2022-05-08,Delivered,Cash on Delivery,8692,Ahmedabad,Gujarat
+1017,2,2023-04-18,Cancelled,Cash on Delivery,24495,Surat,Gujarat
+1018,18,2023-04-27,Shipped,UPI,1098,Pune,Maharashtra
+1019,103,2022-03-23,Delivered,EMI,5601,Hyderabad,Telangana
+1020,96,2023-09-25,Delivered,Credit Card,55000,Chandigarh,Punjab
+1021,83,2023-12-06,Shipped,UPI,8795,Surat,Gujarat
+1022,67,2022-02-14,Returned,Credit Card,7000,Surat,Gujarat
+1023,177,2023-09-20,Delivered,Debit Card,12592,Bengaluru,Karnataka
+1024,115,2023-11-16,Delivered,Cash on Delivery,1992,Ahmedabad,Gujarat
+1025,126,2022-10-15,Delivered,UPI,5437,Chandigarh,Punjab
+1026,63,2023-11-07,Delivered,Credit Card,7564,Bengaluru,Karnataka
+1027,99,2022-07-12,Shipped,Cash on Delivery,21035,Mumbai,Maharashtra
+1028,168,2022-06-07,Delivered,UPI,948,Pune,Maharashtra
+1029,159,2023-06-10,Delivered,Net Banking,7495,Ahmedabad,Gujarat
+1030,148,2023-10-26,Delivered,Credit Card,1104,Bengaluru,Karnataka
+1031,62,2022-01-17,Shipped,Net Banking,176897,Chandigarh,Punjab
+1032,91,2023-03-18,Delivered,Cash on Delivery,2297,Jaipur,Rajasthan
+1033,70,2023-01-14,Delivered,EMI,3325,Delhi,Delhi
+1034,76,2022-07-13,Delivered,Cash on Delivery,19661,Lucknow,Uttar Pradesh
+1035,64,2022-04-24,Cancelled,Cash on Delivery,6300,Kolkata,West Bengal
+1036,137,2022-04-14,Delivered,Credit Card,6092,Bengaluru,Karnataka
+1037,127,2022-07-30,Delivered,EMI,8995,Jaipur,Rajasthan
+1038,1,2022-04-07,Delivered,UPI,4719,Mumbai,Maharashtra
+1039,44,2022-11-19,Delivered,Net Banking,799,Surat,Gujarat
+1040,171,2023-05-01,Cancelled,Debit Card,153763,Mumbai,Maharashtra
+1041,150,2022-01-02,Cancelled,Cash on Delivery,64767,Kolkata,West Bengal
+1042,43,2022-05-31,Delivered,EMI,5000,Pune,Maharashtra
+1043,126,2022-12-26,Delivered,UPI,11644,Chandigarh,Punjab
+1044,199,2023-11-11,Delivered,Net Banking,106399,Chandigarh,Punjab
+1045,128,2022-02-01,Delivered,EMI,2098,Kolkata,West Bengal
+1046,164,2022-04-21,Delivered,EMI,7695,Hyderabad,Telangana
+1047,107,2022-10-10,Delivered,UPI,26235,Ahmedabad,Gujarat
+1048,117,2023-08-04,Delivered,EMI,30000,Surat,Gujarat
+1049,134,2022-10-24,Delivered,UPI,3249,Lucknow,Uttar Pradesh
+1050,56,2022-10-17,Delivered,Credit Card,6650,Chennai,Tamil Nadu
+1051,170,2022-01-01,Delivered,UPI,7680,Surat,Gujarat
+1052,171,2023-07-29,Delivered,EMI,21900,Mumbai,Maharashtra
+1053,21,2022-10-25,Returned,Debit Card,53757,Ahmedabad,Gujarat
+1054,99,2023-03-09,Delivered,Cash on Delivery,20235,Mumbai,Maharashtra
+1055,175,2022-07-24,Delivered,UPI,7145,Pune,Maharashtra
+1056,119,2023-07-13,Delivered,Cash on Delivery,2561,Lucknow,Uttar Pradesh
+1057,129,2023-12-03,Delivered,Net Banking,3606,Mumbai,Maharashtra
+1058,197,2023-03-08,Delivered,UPI,399,Bengaluru,Karnataka
+1059,149,2023-06-09,Cancelled,UPI,6497,Kolkata,West Bengal
+1060,172,2022-01-07,Delivered,EMI,8345,Pune,Maharashtra
+1061,145,2023-05-09,Shipped,EMI,10879,Chandigarh,Punjab
+1062,133,2022-05-28,Delivered,EMI,9892,Chennai,Tamil Nadu
+1063,30,2022-03-10,Delivered,Credit Card,1169,Chandigarh,Punjab
+1064,64,2022-07-29,Delivered,Cash on Delivery,758,Kolkata,West Bengal
+1065,15,2022-05-05,Cancelled,Cash on Delivery,7692,Kolkata,West Bengal
+1066,169,2023-09-24,Delivered,Credit Card,449,Kolkata,West Bengal
+1067,191,2023-11-05,Shipped,Cash on Delivery,5198,Jaipur,Rajasthan
+1068,75,2022-10-24,Delivered,EMI,1798,Surat,Gujarat
+1069,99,2023-12-16,Delivered,Net Banking,349,Mumbai,Maharashtra
+1070,73,2023-04-14,Delivered,Cash on Delivery,1200,Pune,Maharashtra
+1071,166,2023-10-29,Cancelled,Net Banking,25044,Ahmedabad,Gujarat
+1072,129,2022-08-04,Delivered,EMI,8595,Mumbai,Maharashtra
+1073,145,2022-12-14,Delivered,EMI,18710,Chandigarh,Punjab
+1074,47,2023-08-13,Returned,UPI,2874,Bengaluru,Karnataka
+1075,12,2022-01-31,Shipped,Net Banking,6288,Kolkata,West Bengal
+1076,195,2022-08-26,Shipped,Net Banking,5999,Chandigarh,Punjab
+1077,16,2023-09-19,Delivered,UPI,34560,Chandigarh,Punjab
+1078,83,2022-04-21,Delivered,UPI,6265,Surat,Gujarat
+1079,52,2022-06-15,Delivered,EMI,5797,Mumbai,Maharashtra
+1080,93,2023-02-22,Delivered,EMI,11475,Delhi,Delhi
+1081,136,2023-05-24,Cancelled,Cash on Delivery,10598,Hyderabad,Telangana
+1082,144,2022-05-22,Delivered,Net Banking,239,Ahmedabad,Gujarat
+1083,146,2022-03-22,Delivered,Net Banking,4899,Surat,Gujarat
+1084,139,2022-12-05,Cancelled,UPI,1918,Chandigarh,Punjab
+1085,100,2023-12-22,Delivered,Cash on Delivery,31797,Ahmedabad,Gujarat
+1086,80,2023-02-13,Shipped,Credit Card,4500,Pune,Maharashtra
+1087,68,2023-10-31,Delivered,UPI,44000,Ahmedabad,Gujarat
+1088,196,2022-03-02,Cancelled,UPI,9597,Mumbai,Maharashtra
+1089,61,2023-05-21,Returned,EMI,960,Jaipur,Rajasthan
+1090,89,2022-03-14,Delivered,Debit Card,12799,Lucknow,Uttar Pradesh
+1091,128,2023-06-04,Delivered,Debit Card,1448,Kolkata,West Bengal
+1092,199,2022-07-20,Delivered,Net Banking,56267,Chandigarh,Punjab
+1093,141,2022-05-22,Delivered,Cash on Delivery,598,Jaipur,Rajasthan
+1094,50,2022-12-18,Delivered,Debit Card,16524,Hyderabad,Telangana
+1095,4,2022-09-13,Delivered,Net Banking,16000,Chandigarh,Punjab
+1096,12,2022-11-18,Delivered,Net Banking,14914,Kolkata,West Bengal
+1097,20,2022-03-20,Shipped,UPI,8675,Surat,Gujarat
+1098,78,2023-01-11,Delivered,Cash on Delivery,12958,Hyderabad,Telangana
+1099,106,2023-12-24,Cancelled,Cash on Delivery,27596,Hyderabad,Telangana
+1100,32,2023-01-17,Shipped,EMI,35759,Kolkata,West Bengal
+1101,6,2023-05-26,Delivered,Net Banking,6500,Kolkata,West Bengal
+1102,16,2022-10-13,Delivered,Debit Card,159167,Chandigarh,Punjab
+1103,14,2023-11-08,Returned,Cash on Delivery,41597,Hyderabad,Telangana
+1104,56,2022-01-29,Cancelled,Cash on Delivery,9353,Chennai,Tamil Nadu
+1105,137,2023-04-20,Returned,Net Banking,5692,Bengaluru,Karnataka
+1106,175,2022-10-08,Shipped,UPI,2097,Pune,Maharashtra
+1107,102,2022-02-09,Shipped,Cash on Delivery,23899,Bengaluru,Karnataka
+1108,170,2022-11-25,Delivered,Credit Card,3606,Surat,Gujarat
+1109,164,2023-07-24,Delivered,Credit Card,12147,Hyderabad,Telangana
+1110,81,2022-03-07,Delivered,EMI,32048,Ahmedabad,Gujarat
+1111,60,2022-04-28,Shipped,Net Banking,4498,Mumbai,Maharashtra
+1112,11,2023-07-21,Processing,Credit Card,14110,Delhi,Delhi
+1113,184,2022-02-15,Delivered,Net Banking,5497,Hyderabad,Telangana
+1114,61,2022-07-28,Delivered,Net Banking,3597,Jaipur,Rajasthan
+1115,156,2023-01-04,Returned,UPI,2381,Hyderabad,Telangana
+1116,12,2022-10-25,Delivered,Debit Card,133438,Kolkata,West Bengal
+1117,184,2023-06-05,Delivered,EMI,9694,Hyderabad,Telangana
+1118,20,2022-08-18,Delivered,EMI,19348,Surat,Gujarat
+1119,50,2023-08-13,Delivered,UPI,13173,Hyderabad,Telangana
+1120,114,2023-02-24,Delivered,UPI,5862,Pune,Maharashtra
+1121,115,2023-03-05,Returned,Debit Card,3117,Ahmedabad,Gujarat
+1122,150,2023-11-13,Shipped,UPI,6400,Kolkata,West Bengal
+1123,105,2023-03-08,Delivered,Debit Card,2849,Surat,Gujarat
+1124,43,2022-05-04,Delivered,Credit Card,9277,Pune,Maharashtra
+1125,19,2022-05-16,Shipped,Debit Card,3309,Ahmedabad,Gujarat
+1126,152,2023-09-16,Delivered,UPI,41800,Delhi,Delhi
+1127,162,2023-04-06,Shipped,Cash on Delivery,7037,Lucknow,Uttar Pradesh
+1128,152,2023-08-31,Delivered,Cash on Delivery,2248,Delhi,Delhi
+1129,60,2022-11-01,Cancelled,Cash on Delivery,17818,Mumbai,Maharashtra
+1130,82,2022-07-02,Delivered,UPI,65698,Surat,Gujarat
+1131,26,2022-12-22,Delivered,Net Banking,9999,Ahmedabad,Gujarat
+1132,156,2022-04-19,Delivered,Cash on Delivery,16639,Hyderabad,Telangana
+1133,8,2023-09-05,Delivered,Debit Card,5000,Chandigarh,Punjab
+1134,7,2023-01-14,Delivered,Net Banking,3780,Pune,Maharashtra
+1135,76,2022-04-23,Cancelled,Net Banking,299,Lucknow,Uttar Pradesh
+1136,36,2022-10-13,Cancelled,EMI,799,Pune,Maharashtra
+1137,187,2022-03-18,Delivered,EMI,10452,Kolkata,West Bengal
+1138,181,2023-12-06,Returned,Cash on Delivery,30847,Delhi,Delhi
+1139,161,2022-02-06,Delivered,Net Banking,559,Kolkata,West Bengal
+1140,173,2022-07-20,Cancelled,EMI,2419,Chandigarh,Punjab
+1141,163,2022-04-01,Delivered,Cash on Delivery,17412,Ahmedabad,Gujarat
+1142,46,2022-02-09,Delivered,UPI,12819,Ahmedabad,Gujarat
+1143,60,2022-10-27,Delivered,UPI,9346,Mumbai,Maharashtra
+1144,115,2022-11-30,Delivered,UPI,5142,Ahmedabad,Gujarat
+1145,179,2023-02-12,Delivered,EMI,1297,Bengaluru,Karnataka
+1146,69,2023-06-04,Delivered,UPI,8647,Hyderabad,Telangana
+1147,106,2023-02-05,Delivered,EMI,12595,Hyderabad,Telangana
+1148,115,2023-02-24,Delivered,EMI,5997,Ahmedabad,Gujarat
+1149,85,2022-05-13,Cancelled,Credit Card,132000,Hyderabad,Telangana
+1150,86,2022-12-28,Delivered,UPI,3150,Surat,Gujarat
+1151,41,2023-07-03,Delivered,Debit Card,6745,Mumbai,Maharashtra
+1152,6,2023-06-24,Delivered,Net Banking,1800,Kolkata,West Bengal
+1153,73,2022-11-05,Delivered,EMI,1199,Pune,Maharashtra
+1154,70,2022-05-07,Delivered,Cash on Delivery,14614,Delhi,Delhi
+1155,4,2023-07-09,Shipped,Debit Card,7438,Chandigarh,Punjab
+1156,83,2023-03-12,Delivered,Debit Card,2800,Surat,Gujarat
+1157,168,2023-08-14,Delivered,Net Banking,8366,Pune,Maharashtra
+1158,137,2023-06-03,Processing,EMI,157888,Bengaluru,Karnataka
+1159,183,2022-04-21,Shipped,Net Banking,62495,Lucknow,Uttar Pradesh
+1160,80,2022-12-07,Delivered,Debit Card,7920,Pune,Maharashtra
+1161,64,2022-03-27,Cancelled,Cash on Delivery,1696,Kolkata,West Bengal
+1162,16,2023-05-21,Cancelled,Credit Card,19347,Chandigarh,Punjab
+1163,105,2022-01-06,Delivered,UPI,6288,Surat,Gujarat
+1164,182,2023-05-10,Delivered,Credit Card,2375,Chandigarh,Punjab
+1165,194,2022-01-14,Delivered,Net Banking,2799,Kolkata,West Bengal
+1166,109,2023-05-23,Delivered,Cash on Delivery,1755,Chennai,Tamil Nadu
+1167,76,2022-05-01,Delivered,UPI,12057,Lucknow,Uttar Pradesh
+1168,134,2023-12-03,Delivered,UPI,2182,Lucknow,Uttar Pradesh
+1169,85,2022-05-19,Delivered,Net Banking,1497,Hyderabad,Telangana
+1170,18,2022-01-06,Delivered,Credit Card,21497,Pune,Maharashtra
+1171,41,2022-03-10,Delivered,Debit Card,8395,Mumbai,Maharashtra
+1172,187,2022-11-10,Delivered,EMI,9008,Kolkata,West Bengal
+1173,40,2022-04-16,Delivered,Credit Card,26997,Hyderabad,Telangana
+1174,166,2023-01-28,Delivered,EMI,10157,Ahmedabad,Gujarat
+1175,54,2022-06-22,Processing,Credit Card,2877,Hyderabad,Telangana
+1176,38,2022-05-27,Delivered,Credit Card,37197,Chandigarh,Punjab
+1177,109,2023-11-12,Delivered,Net Banking,13488,Chennai,Tamil Nadu
+1178,80,2023-06-19,Cancelled,Debit Card,6968,Pune,Maharashtra
+1179,112,2023-07-28,Cancelled,EMI,12249,Pune,Maharashtra
+1180,198,2023-11-18,Delivered,Debit Card,5600,Pune,Maharashtra
+1181,3,2022-07-20,Delivered,UPI,30993,Delhi,Delhi
+1182,156,2022-10-07,Delivered,Net Banking,19500,Hyderabad,Telangana
+1183,181,2022-09-17,Cancelled,Net Banking,110610,Delhi,Delhi
+1184,45,2023-04-30,Delivered,Cash on Delivery,18700,Lucknow,Uttar Pradesh
+1185,181,2022-07-01,Cancelled,Credit Card,4047,Delhi,Delhi
+1186,182,2022-03-05,Processing,Debit Card,18275,Chandigarh,Punjab
+1187,86,2023-11-20,Delivered,EMI,7782,Surat,Gujarat
+1188,16,2022-03-08,Shipped,Credit Card,4899,Chandigarh,Punjab
+1189,71,2023-09-16,Delivered,EMI,2318,Kolkata,West Bengal
+1190,71,2023-07-29,Delivered,EMI,17749,Kolkata,West Bengal
+1191,30,2022-04-03,Delivered,EMI,3699,Chandigarh,Punjab
+1192,56,2023-10-16,Delivered,EMI,5139,Chennai,Tamil Nadu
+1193,34,2022-11-14,Shipped,Debit Card,599,Mumbai,Maharashtra
+1194,145,2022-11-20,Processing,UPI,16909,Chandigarh,Punjab
+1195,91,2023-08-16,Cancelled,EMI,2075,Jaipur,Rajasthan
+1196,99,2022-06-09,Delivered,EMI,1517,Mumbai,Maharashtra
+1197,88,2023-12-18,Delivered,Net Banking,13497,Ahmedabad,Gujarat
+1198,169,2023-10-09,Delivered,UPI,2195,Kolkata,West Bengal
+1199,169,2023-08-26,Shipped,EMI,399,Kolkata,West Bengal
+1200,41,2023-03-08,Delivered,Net Banking,13495,Mumbai,Maharashtra
+1201,117,2023-08-31,Shipped,Cash on Delivery,9993,Surat,Gujarat
+1202,11,2022-08-28,Delivered,UPI,988,Delhi,Delhi
+1203,152,2022-01-30,Returned,Cash on Delivery,5269,Delhi,Delhi
+1204,146,2022-05-23,Processing,UPI,9200,Surat,Gujarat
+1205,118,2023-02-10,Shipped,Debit Card,36698,Bengaluru,Karnataka
+1206,21,2022-07-09,Delivered,Debit Card,11844,Ahmedabad,Gujarat
+1207,199,2023-01-19,Delivered,Credit Card,1137,Chandigarh,Punjab
+1208,176,2023-02-08,Cancelled,EMI,1597,Lucknow,Uttar Pradesh
+1209,33,2022-11-22,Cancelled,EMI,1865,Mumbai,Maharashtra
+1210,101,2023-07-01,Delivered,EMI,899,Lucknow,Uttar Pradesh
+1211,57,2023-09-16,Delivered,Cash on Delivery,3676,Chandigarh,Punjab
+1212,154,2023-02-12,Delivered,Debit Card,1199,Mumbai,Maharashtra
+1213,78,2023-03-22,Delivered,Debit Card,4275,Hyderabad,Telangana
+1214,73,2022-11-15,Delivered,Net Banking,25624,Pune,Maharashtra
+1215,89,2023-12-04,Cancelled,Credit Card,998,Lucknow,Uttar Pradesh
+1216,33,2023-08-12,Delivered,Credit Card,39542,Mumbai,Maharashtra
+1217,30,2023-09-11,Cancelled,UPI,14595,Chandigarh,Punjab
+1218,173,2022-03-23,Returned,EMI,36450,Chandigarh,Punjab
+1219,132,2023-09-22,Delivered,Net Banking,10305,Delhi,Delhi
+1220,95,2022-09-16,Delivered,UPI,125800,Ahmedabad,Gujarat
+1221,77,2023-10-14,Delivered,EMI,9600,Surat,Gujarat
+1222,190,2023-02-10,Delivered,Debit Card,5184,Delhi,Delhi
+1223,127,2023-03-18,Delivered,EMI,4032,Jaipur,Rajasthan
+1224,11,2022-03-20,Delivered,EMI,41816,Delhi,Delhi
+1225,186,2022-03-22,Delivered,EMI,7044,Surat,Gujarat
+1226,21,2023-03-20,Delivered,UPI,8097,Ahmedabad,Gujarat
+1227,139,2022-09-07,Delivered,Debit Card,2078,Chandigarh,Punjab
+1228,71,2023-12-07,Shipped,Cash on Delivery,11305,Kolkata,West Bengal
+1229,73,2022-10-07,Delivered,Net Banking,467,Pune,Maharashtra
+1230,71,2022-10-01,Delivered,EMI,13497,Kolkata,West Bengal
+1231,187,2023-12-31,Delivered,Net Banking,15657,Kolkata,West Bengal
+1232,89,2023-04-01,Delivered,EMI,1945,Lucknow,Uttar Pradesh
+1233,66,2023-02-17,Returned,EMI,3420,Bengaluru,Karnataka
+1234,89,2022-03-27,Delivered,UPI,4460,Lucknow,Uttar Pradesh
+1235,8,2022-06-09,Delivered,Net Banking,1997,Chandigarh,Punjab
+1236,143,2023-05-18,Delivered,Cash on Delivery,2479,Ahmedabad,Gujarat
+1237,102,2022-08-12,Delivered,Debit Card,8640,Bengaluru,Karnataka
+1238,141,2023-02-23,Delivered,UPI,12535,Jaipur,Rajasthan
+1239,163,2023-10-14,Delivered,Net Banking,9118,Ahmedabad,Gujarat
+1240,41,2022-07-01,Shipped,EMI,41900,Mumbai,Maharashtra
+1241,168,2023-03-05,Delivered,Cash on Delivery,154028,Pune,Maharashtra
+1242,188,2023-02-23,Delivered,Debit Card,1077,Bengaluru,Karnataka
+1243,121,2023-12-02,Delivered,Cash on Delivery,3117,Chandigarh,Punjab
+1244,100,2023-07-20,Delivered,Debit Card,2645,Ahmedabad,Gujarat
+1245,52,2022-11-27,Cancelled,Debit Card,17640,Mumbai,Maharashtra
+1246,63,2023-12-02,Delivered,Cash on Delivery,6276,Bengaluru,Karnataka
+1247,185,2022-03-13,Shipped,Net Banking,52800,Lucknow,Uttar Pradesh
+1248,121,2023-01-30,Returned,EMI,494,Chandigarh,Punjab
+1249,184,2023-09-14,Delivered,EMI,598,Hyderabad,Telangana
+1250,102,2022-02-10,Delivered,Credit Card,4996,Bengaluru,Karnataka
+1251,193,2022-04-25,Shipped,Debit Card,3147,Delhi,Delhi
+1252,68,2022-04-10,Shipped,UPI,17945,Ahmedabad,Gujarat
+1253,85,2023-04-07,Delivered,Debit Card,19800,Hyderabad,Telangana
+1254,57,2023-01-15,Delivered,UPI,10067,Chandigarh,Punjab
+1255,76,2022-06-08,Delivered,Net Banking,7097,Lucknow,Uttar Pradesh
+1256,8,2022-08-05,Delivered,EMI,38334,Chandigarh,Punjab
+1257,123,2023-09-26,Delivered,Cash on Delivery,5595,Kolkata,West Bengal
+1258,97,2023-05-12,Delivered,Net Banking,2496,Kolkata,West Bengal
+1259,88,2022-08-19,Delivered,EMI,6715,Ahmedabad,Gujarat
+1260,92,2023-05-26,Shipped,UPI,34421,Chandigarh,Punjab
+1261,85,2023-06-04,Delivered,Cash on Delivery,15600,Hyderabad,Telangana
+1262,138,2022-03-23,Delivered,Debit Card,598,Chandigarh,Punjab
+1263,190,2022-07-07,Delivered,Cash on Delivery,4295,Delhi,Delhi
+1264,24,2022-07-14,Delivered,Credit Card,499,Jaipur,Rajasthan
+1265,63,2023-08-23,Delivered,EMI,14849,Bengaluru,Karnataka
+1266,22,2023-05-03,Delivered,Cash on Delivery,11875,Surat,Gujarat
+1267,3,2023-08-19,Cancelled,Cash on Delivery,10955,Delhi,Delhi
+1268,154,2022-10-05,Delivered,EMI,21096,Mumbai,Maharashtra
+1269,71,2023-11-26,Delivered,UPI,7827,Kolkata,West Bengal
+1270,46,2022-03-09,Delivered,Cash on Delivery,6959,Ahmedabad,Gujarat
+1271,55,2022-11-11,Delivered,UPI,3323,Chandigarh,Punjab
+1272,40,2022-11-28,Shipped,Debit Card,8546,Hyderabad,Telangana
+1273,84,2023-06-13,Returned,Net Banking,13116,Hyderabad,Telangana
+1274,86,2022-12-29,Delivered,Net Banking,2896,Surat,Gujarat
+1275,91,2023-10-24,Delivered,EMI,19849,Jaipur,Rajasthan
+1276,184,2022-09-20,Delivered,Net Banking,170094,Hyderabad,Telangana
+1277,52,2022-08-09,Delivered,EMI,41514,Mumbai,Maharashtra
+1278,200,2023-11-07,Delivered,Credit Card,21946,Delhi,Delhi
+1279,138,2023-01-14,Cancelled,Credit Card,11898,Chandigarh,Punjab
+1280,151,2022-11-03,Delivered,UPI,7290,Jaipur,Rajasthan
+1281,67,2023-07-25,Cancelled,EMI,154698,Surat,Gujarat
+1282,198,2023-04-02,Delivered,Net Banking,5397,Pune,Maharashtra
+1283,174,2023-12-22,Delivered,EMI,116660,Chennai,Tamil Nadu
+1284,13,2023-06-26,Delivered,Cash on Delivery,1710,Jaipur,Rajasthan
+1285,130,2022-12-01,Shipped,Cash on Delivery,28100,Lucknow,Uttar Pradesh
+1286,132,2022-03-31,Cancelled,Net Banking,27925,Delhi,Delhi
+1287,19,2022-07-06,Cancelled,Net Banking,2469,Ahmedabad,Gujarat
+1288,100,2022-01-20,Delivered,Debit Card,1199,Ahmedabad,Gujarat
+1289,150,2023-11-22,Shipped,Cash on Delivery,11546,Kolkata,West Bengal
+1290,49,2022-06-01,Delivered,Cash on Delivery,3509,Pune,Maharashtra
+1291,139,2022-12-23,Cancelled,Debit Card,339,Chandigarh,Punjab
+1292,52,2022-11-07,Delivered,Debit Card,5918,Mumbai,Maharashtra
+1293,36,2023-03-27,Delivered,EMI,1437,Pune,Maharashtra
+1294,54,2023-01-25,Delivered,Debit Card,598,Hyderabad,Telangana
+1295,152,2022-05-08,Delivered,Cash on Delivery,6372,Delhi,Delhi
+1296,32,2022-06-16,Shipped,UPI,5524,Kolkata,West Bengal
+1297,49,2022-08-04,Delivered,UPI,1620,Pune,Maharashtra
+1298,117,2022-01-17,Cancelled,Net Banking,479,Surat,Gujarat
+1299,91,2023-01-05,Delivered,EMI,28147,Jaipur,Rajasthan
+1300,121,2022-01-17,Cancelled,Debit Card,23666,Chandigarh,Punjab
+1301,40,2022-05-24,Cancelled,EMI,64399,Hyderabad,Telangana
+1302,108,2022-06-26,Shipped,EMI,2697,Kolkata,West Bengal
+1303,42,2022-01-31,Returned,UPI,10345,Ahmedabad,Gujarat
+1304,8,2023-04-27,Returned,Credit Card,2338,Chandigarh,Punjab
+1305,196,2023-09-05,Delivered,Debit Card,4098,Mumbai,Maharashtra
+1306,29,2023-05-03,Cancelled,EMI,7694,Chennai,Tamil Nadu
+1307,33,2022-11-27,Delivered,Cash on Delivery,4196,Mumbai,Maharashtra
+1308,34,2022-05-27,Shipped,UPI,3330,Mumbai,Maharashtra
+1309,58,2022-09-14,Shipped,Net Banking,15045,Chandigarh,Punjab
+1310,133,2023-08-15,Delivered,Debit Card,2918,Chennai,Tamil Nadu
+1311,99,2023-10-10,Processing,Credit Card,8997,Mumbai,Maharashtra
+1312,9,2022-09-01,Delivered,Net Banking,1327,Chennai,Tamil Nadu
+1313,161,2023-08-15,Delivered,Net Banking,10439,Kolkata,West Bengal
+1314,87,2022-12-12,Cancelled,Net Banking,14880,Chandigarh,Punjab
+1315,170,2022-04-09,Shipped,Net Banking,15554,Surat,Gujarat
+1316,25,2022-08-21,Cancelled,UPI,12727,Bengaluru,Karnataka
+1317,47,2023-02-12,Shipped,Debit Card,5350,Bengaluru,Karnataka
+1318,135,2023-09-08,Delivered,Cash on Delivery,4299,Chennai,Tamil Nadu
+1319,178,2023-06-28,Delivered,Debit Card,5349,Surat,Gujarat
+1320,58,2022-06-05,Delivered,Cash on Delivery,25172,Chandigarh,Punjab
+1321,185,2022-11-04,Delivered,Cash on Delivery,13600,Lucknow,Uttar Pradesh
+1322,54,2023-09-20,Shipped,Debit Card,7000,Hyderabad,Telangana
+1323,42,2022-09-06,Delivered,UPI,4194,Ahmedabad,Gujarat
+1324,32,2023-08-23,Delivered,UPI,5837,Kolkata,West Bengal
+1325,164,2022-05-01,Delivered,EMI,12823,Hyderabad,Telangana
+1326,191,2023-09-17,Returned,Credit Card,35243,Jaipur,Rajasthan
+1327,110,2023-08-23,Delivered,Credit Card,6747,Pune,Maharashtra
+1328,154,2023-01-07,Delivered,EMI,2245,Mumbai,Maharashtra
+1329,188,2022-10-10,Shipped,UPI,6849,Bengaluru,Karnataka
+1330,183,2023-05-13,Delivered,Net Banking,1910,Lucknow,Uttar Pradesh
+1331,200,2023-12-27,Delivered,EMI,13392,Delhi,Delhi
+1332,165,2022-04-11,Returned,Debit Card,8400,Mumbai,Maharashtra
+1333,173,2023-12-28,Cancelled,Cash on Delivery,21112,Chandigarh,Punjab
+1334,191,2023-03-19,Delivered,Credit Card,5948,Jaipur,Rajasthan
+1335,26,2022-10-27,Cancelled,UPI,63097,Ahmedabad,Gujarat
+1336,84,2023-04-15,Shipped,Cash on Delivery,12830,Hyderabad,Telangana
+1337,193,2022-12-23,Delivered,Cash on Delivery,2292,Delhi,Delhi
+1338,82,2022-11-10,Delivered,UPI,2160,Surat,Gujarat
+1339,164,2022-07-10,Delivered,Net Banking,8096,Hyderabad,Telangana
+1340,29,2022-07-14,Shipped,Cash on Delivery,13500,Chennai,Tamil Nadu
+1341,20,2022-07-23,Shipped,EMI,2280,Surat,Gujarat
+1342,38,2022-12-15,Delivered,EMI,3432,Chandigarh,Punjab
+1343,22,2022-11-28,Delivered,Debit Card,19208,Surat,Gujarat
+1344,127,2022-08-18,Delivered,Debit Card,3097,Jaipur,Rajasthan
+1345,63,2022-01-22,Delivered,Debit Card,7314,Bengaluru,Karnataka
+1346,148,2023-02-01,Delivered,Debit Card,10746,Bengaluru,Karnataka
+1347,178,2022-05-18,Delivered,Cash on Delivery,9091,Surat,Gujarat
+1348,27,2023-09-11,Cancelled,Debit Card,6173,Hyderabad,Telangana
+1349,14,2023-04-17,Returned,Debit Card,28492,Hyderabad,Telangana
+1350,15,2022-12-22,Delivered,EMI,42895,Kolkata,West Bengal
+1351,181,2022-05-17,Shipped,UPI,13596,Delhi,Delhi
+1352,37,2023-07-07,Shipped,UPI,26099,Pune,Maharashtra
+1353,17,2023-06-27,Shipped,Debit Card,9835,Bengaluru,Karnataka
+1354,187,2022-05-03,Delivered,EMI,8452,Kolkata,West Bengal
+1355,122,2022-05-22,Delivered,EMI,10828,Delhi,Delhi
+1356,48,2022-09-24,Delivered,Credit Card,10254,Lucknow,Uttar Pradesh
+1357,143,2022-03-02,Returned,Cash on Delivery,40098,Ahmedabad,Gujarat
+1358,79,2022-01-29,Delivered,Net Banking,32497,Chennai,Tamil Nadu
+1359,25,2023-12-01,Delivered,Net Banking,6032,Bengaluru,Karnataka
+1360,39,2023-04-01,Delivered,Cash on Delivery,399,Jaipur,Rajasthan
+1361,80,2022-10-26,Shipped,Cash on Delivery,899,Pune,Maharashtra
+1362,26,2023-05-25,Processing,UPI,12822,Ahmedabad,Gujarat
+1363,100,2023-04-04,Delivered,Debit Card,1500,Ahmedabad,Gujarat
+1364,62,2023-05-18,Delivered,Net Banking,53997,Chandigarh,Punjab
+1365,194,2023-08-29,Delivered,EMI,2097,Kolkata,West Bengal
+1366,145,2023-08-12,Delivered,Debit Card,17896,Chandigarh,Punjab
+1367,97,2022-03-26,Delivered,Cash on Delivery,111241,Kolkata,West Bengal
+1368,179,2022-02-26,Returned,UPI,8097,Bengaluru,Karnataka
+1369,147,2023-07-10,Delivered,Credit Card,4298,Bengaluru,Karnataka
+1370,91,2023-07-05,Shipped,Cash on Delivery,359,Jaipur,Rajasthan
+1371,131,2023-01-15,Delivered,Debit Card,10497,Mumbai,Maharashtra
+1372,82,2022-03-16,Delivered,Cash on Delivery,7447,Surat,Gujarat
+1373,53,2023-12-07,Delivered,Debit Card,3060,Hyderabad,Telangana
+1374,46,2023-02-04,Delivered,Debit Card,2516,Ahmedabad,Gujarat
+1375,172,2022-09-22,Delivered,Credit Card,17763,Pune,Maharashtra
+1376,200,2023-05-15,Delivered,Net Banking,64099,Delhi,Delhi
+1377,19,2023-10-15,Delivered,Net Banking,2800,Ahmedabad,Gujarat
+1378,138,2022-12-02,Delivered,UPI,10598,Chandigarh,Punjab
+1379,28,2022-05-03,Delivered,Cash on Delivery,10347,Jaipur,Rajasthan
+1380,59,2022-02-08,Delivered,UPI,25454,Chennai,Tamil Nadu
+1381,197,2022-02-12,Delivered,Credit Card,7796,Bengaluru,Karnataka
+1382,45,2022-12-25,Delivered,UPI,7915,Lucknow,Uttar Pradesh
+1383,50,2022-12-10,Delivered,UPI,72627,Hyderabad,Telangana
+1384,15,2022-04-25,Delivered,Credit Card,1482,Kolkata,West Bengal
+1385,44,2022-11-26,Shipped,Credit Card,26977,Surat,Gujarat
+1386,100,2023-08-04,Shipped,Credit Card,3237,Ahmedabad,Gujarat
+1387,19,2022-01-21,Delivered,EMI,11196,Ahmedabad,Gujarat
+1388,89,2023-10-14,Cancelled,Debit Card,8242,Lucknow,Uttar Pradesh
+1389,100,2022-09-21,Delivered,UPI,111299,Ahmedabad,Gujarat
+1390,106,2023-12-29,Cancelled,UPI,1996,Hyderabad,Telangana
+1391,107,2023-04-17,Delivered,EMI,4221,Ahmedabad,Gujarat
+1392,63,2022-08-11,Returned,EMI,8158,Bengaluru,Karnataka
+1393,119,2023-07-16,Delivered,Credit Card,13672,Lucknow,Uttar Pradesh
+1394,106,2022-02-22,Delivered,Debit Card,17423,Hyderabad,Telangana
+1395,111,2022-07-04,Shipped,UPI,152741,Surat,Gujarat
+1396,103,2023-08-12,Delivered,Debit Card,3556,Hyderabad,Telangana
+1397,196,2023-05-14,Shipped,Credit Card,23198,Mumbai,Maharashtra
+1398,85,2022-04-03,Returned,UPI,8714,Hyderabad,Telangana
+1399,81,2023-08-21,Delivered,Cash on Delivery,11697,Ahmedabad,Gujarat
+1400,137,2023-09-26,Shipped,Debit Card,11195,Bengaluru,Karnataka
+1401,194,2022-02-10,Delivered,Debit Card,1436,Kolkata,West Bengal
+1402,177,2023-01-07,Cancelled,Net Banking,8834,Bengaluru,Karnataka
+1403,95,2022-03-12,Delivered,Net Banking,1996,Ahmedabad,Gujarat
+1404,51,2023-10-12,Delivered,Net Banking,10998,Bengaluru,Karnataka
+1405,44,2023-01-09,Processing,Credit Card,13583,Surat,Gujarat
+1406,167,2022-09-02,Delivered,UPI,9814,Ahmedabad,Gujarat
+1407,21,2022-12-07,Cancelled,Cash on Delivery,1497,Ahmedabad,Gujarat
+1408,147,2022-01-20,Delivered,Credit Card,7642,Bengaluru,Karnataka
+1409,97,2022-12-10,Shipped,Debit Card,7945,Kolkata,West Bengal
+1410,50,2023-05-16,Returned,Credit Card,18237,Hyderabad,Telangana
+1411,30,2022-01-24,Delivered,UPI,4597,Chandigarh,Punjab
+1412,61,2022-03-31,Shipped,EMI,28800,Jaipur,Rajasthan
+1413,159,2022-03-14,Delivered,UPI,2436,Ahmedabad,Gujarat
+1414,157,2022-05-05,Delivered,EMI,499,Delhi,Delhi
+1415,24,2022-04-04,Shipped,Debit Card,449,Jaipur,Rajasthan
+1416,184,2022-03-23,Cancelled,EMI,6736,Hyderabad,Telangana
+1417,74,2023-11-24,Delivered,Credit Card,299,Hyderabad,Telangana
+1418,51,2022-09-27,Processing,EMI,8700,Bengaluru,Karnataka
+1419,49,2022-07-11,Delivered,Cash on Delivery,6692,Pune,Maharashtra
+1420,164,2022-10-20,Cancelled,EMI,4547,Hyderabad,Telangana
+1421,168,2023-12-01,Delivered,Net Banking,30199,Pune,Maharashtra
+1422,194,2023-03-17,Delivered,EMI,254,Kolkata,West Bengal
+1423,82,2023-08-26,Delivered,UPI,31160,Surat,Gujarat
+1424,95,2023-05-27,Processing,Debit Card,4246,Ahmedabad,Gujarat
+1425,177,2022-12-28,Delivered,EMI,1834,Bengaluru,Karnataka
+1426,82,2023-01-26,Delivered,EMI,4396,Surat,Gujarat
+1427,48,2022-08-11,Delivered,Debit Card,110000,Lucknow,Uttar Pradesh
+1428,51,2022-01-23,Delivered,Debit Card,9209,Bengaluru,Karnataka
+1429,112,2022-06-13,Returned,EMI,21848,Pune,Maharashtra
+1430,133,2023-05-22,Delivered,UPI,1231,Chennai,Tamil Nadu
+1431,162,2022-11-15,Delivered,UPI,11556,Lucknow,Uttar Pradesh
+1432,145,2023-04-30,Delivered,Net Banking,55000,Chandigarh,Punjab
+1433,84,2023-12-06,Shipped,Cash on Delivery,1995,Hyderabad,Telangana
+1434,179,2022-07-19,Processing,Debit Card,4077,Bengaluru,Karnataka
+1435,61,2022-09-13,Delivered,Credit Card,107156,Jaipur,Rajasthan
+1436,136,2023-05-18,Delivered,Debit Card,27598,Hyderabad,Telangana
+1437,200,2022-03-02,Delivered,Cash on Delivery,38089,Delhi,Delhi
+1438,125,2022-11-18,Delivered,UPI,10709,Hyderabad,Telangana
+1439,50,2023-06-21,Shipped,Credit Card,2446,Hyderabad,Telangana
+1440,76,2022-01-26,Delivered,Net Banking,439,Lucknow,Uttar Pradesh
+1441,115,2023-10-03,Shipped,Credit Card,8695,Ahmedabad,Gujarat
+1442,156,2023-04-10,Delivered,Credit Card,4094,Hyderabad,Telangana
+1443,123,2023-01-13,Delivered,EMI,2275,Kolkata,West Bengal
+1444,102,2022-07-02,Delivered,Cash on Delivery,28897,Bengaluru,Karnataka
+1445,184,2022-05-16,Delivered,EMI,16596,Hyderabad,Telangana
+1446,21,2023-02-27,Delivered,Cash on Delivery,25076,Ahmedabad,Gujarat
+1447,40,2023-07-16,Delivered,Credit Card,5598,Hyderabad,Telangana
+1448,59,2022-09-03,Delivered,EMI,3600,Chennai,Tamil Nadu
+1449,58,2023-05-06,Delivered,Debit Card,22000,Chandigarh,Punjab
+1450,129,2022-11-24,Delivered,UPI,158741,Mumbai,Maharashtra
+1451,179,2023-03-01,Delivered,Credit Card,22000,Bengaluru,Karnataka
+1452,150,2023-05-19,Shipped,Cash on Delivery,2997,Kolkata,West Bengal
+1453,43,2023-02-11,Delivered,EMI,7562,Pune,Maharashtra
+1454,69,2023-07-24,Cancelled,Cash on Delivery,5797,Hyderabad,Telangana
+1455,67,2023-02-07,Delivered,Net Banking,4860,Surat,Gujarat
+1456,172,2023-06-09,Delivered,Credit Card,68338,Pune,Maharashtra
+1457,192,2022-11-02,Delivered,Credit Card,3482,Delhi,Delhi
+1458,146,2022-09-16,Delivered,Debit Card,89440,Surat,Gujarat
+1459,53,2023-05-27,Shipped,Net Banking,12201,Hyderabad,Telangana
+1460,64,2022-03-21,Cancelled,Cash on Delivery,18000,Kolkata,West Bengal
+1461,71,2022-01-01,Returned,Credit Card,4797,Kolkata,West Bengal
+1462,49,2023-03-10,Shipped,UPI,12478,Pune,Maharashtra
+1463,37,2022-09-27,Delivered,Credit Card,124494,Pune,Maharashtra
+1464,178,2023-07-25,Delivered,EMI,53295,Surat,Gujarat
+1465,102,2023-11-26,Cancelled,Net Banking,122796,Bengaluru,Karnataka
+1466,17,2022-10-15,Delivered,UPI,18318,Bengaluru,Karnataka
+1467,115,2022-01-02,Cancelled,Net Banking,3240,Ahmedabad,Gujarat
+1468,126,2022-08-26,Delivered,Cash on Delivery,3600,Chandigarh,Punjab
+1469,121,2023-07-12,Delivered,UPI,5862,Chandigarh,Punjab
+1470,105,2022-06-28,Delivered,EMI,8192,Surat,Gujarat
+1471,93,2023-03-19,Delivered,Debit Card,6400,Delhi,Delhi
+1472,166,2023-04-23,Delivered,EMI,88598,Ahmedabad,Gujarat
+1473,191,2022-06-13,Delivered,Net Banking,11994,Jaipur,Rajasthan
+1474,11,2023-06-17,Delivered,Cash on Delivery,1020,Delhi,Delhi
+1475,190,2022-08-21,Shipped,UPI,9445,Delhi,Delhi
+1476,101,2022-08-13,Delivered,Net Banking,7744,Lucknow,Uttar Pradesh
+1477,1,2023-06-01,Delivered,Credit Card,764,Mumbai,Maharashtra
+1478,62,2023-02-20,Returned,Debit Card,10999,Chandigarh,Punjab
+1479,31,2022-08-01,Delivered,Credit Card,24320,Ahmedabad,Gujarat
+1480,104,2022-01-11,Delivered,Net Banking,16735,Chennai,Tamil Nadu
+1481,158,2023-08-31,Processing,Net Banking,898,Ahmedabad,Gujarat
+1482,8,2022-09-19,Shipped,Cash on Delivery,10195,Chandigarh,Punjab
+1483,10,2023-05-15,Delivered,Credit Card,399,Mumbai,Maharashtra
+1484,186,2023-10-09,Delivered,UPI,1047,Surat,Gujarat
+1485,121,2022-02-05,Delivered,Net Banking,6199,Chandigarh,Punjab
+1486,152,2023-11-23,Delivered,Cash on Delivery,3600,Delhi,Delhi
+1487,71,2023-12-15,Delivered,Cash on Delivery,15959,Kolkata,West Bengal
+1488,11,2022-10-25,Returned,Credit Card,7797,Delhi,Delhi
+1489,2,2023-02-01,Delivered,Debit Card,67797,Surat,Gujarat
+1490,127,2022-08-23,Delivered,Cash on Delivery,9356,Jaipur,Rajasthan
+1491,179,2023-03-17,Cancelled,UPI,1782,Bengaluru,Karnataka
+1492,28,2023-03-05,Shipped,Credit Card,39347,Jaipur,Rajasthan
+1493,122,2023-02-15,Delivered,Credit Card,8009,Delhi,Delhi
+1494,51,2023-04-02,Delivered,EMI,11299,Bengaluru,Karnataka
+1495,144,2022-02-10,Delivered,EMI,6202,Ahmedabad,Gujarat
+1496,96,2022-03-03,Delivered,UPI,7560,Chandigarh,Punjab
+1497,3,2022-11-07,Cancelled,Debit Card,2595,Delhi,Delhi
+1498,123,2023-05-06,Delivered,EMI,8499,Kolkata,West Bengal
+1499,38,2023-11-15,Cancelled,Credit Card,6364,Chandigarh,Punjab
+1500,145,2022-06-18,Returned,UPI,2990,Chandigarh,Punjab
+1501,11,2022-11-25,Delivered,Debit Card,56432,Delhi,Delhi
+1502,105,2023-10-24,Delivered,Net Banking,5679,Surat,Gujarat
+1503,154,2022-02-01,Shipped,Credit Card,23998,Mumbai,Maharashtra
+1504,167,2022-12-16,Returned,Net Banking,11337,Ahmedabad,Gujarat
+1505,151,2023-12-13,Delivered,Net Banking,14697,Jaipur,Rajasthan
+1506,158,2023-10-09,Delivered,UPI,5120,Ahmedabad,Gujarat
+1507,153,2023-06-10,Delivered,UPI,1797,Hyderabad,Telangana
+1508,133,2023-11-24,Shipped,Debit Card,26558,Chennai,Tamil Nadu
+1509,49,2023-12-05,Delivered,Net Banking,8459,Pune,Maharashtra
+1510,186,2022-10-26,Shipped,UPI,16897,Surat,Gujarat
+1511,96,2022-09-09,Delivered,Debit Card,10446,Chandigarh,Punjab
+1512,97,2023-07-18,Returned,Net Banking,79737,Kolkata,West Bengal
+1513,108,2022-07-23,Delivered,Net Banking,7931,Kolkata,West Bengal
+1514,36,2022-07-05,Shipped,Credit Card,1299,Pune,Maharashtra
+1515,72,2022-04-21,Delivered,EMI,3103,Mumbai,Maharashtra
+1516,87,2023-10-02,Delivered,Cash on Delivery,7555,Chandigarh,Punjab
+1517,91,2022-08-31,Delivered,Debit Card,111500,Jaipur,Rajasthan
+1518,139,2023-09-24,Delivered,EMI,1438,Chandigarh,Punjab
+1519,125,2022-05-08,Cancelled,Debit Card,1398,Hyderabad,Telangana
+1520,157,2022-06-19,Delivered,Debit Card,13088,Delhi,Delhi
+1521,149,2023-09-07,Cancelled,Net Banking,13850,Kolkata,West Bengal
+1522,99,2023-09-22,Cancelled,Net Banking,177174,Mumbai,Maharashtra
+1523,128,2023-06-04,Delivered,Credit Card,16914,Kolkata,West Bengal
+1524,104,2022-08-01,Delivered,Debit Card,1527,Chennai,Tamil Nadu
+1525,98,2023-09-07,Delivered,Credit Card,175558,Lucknow,Uttar Pradesh
+1526,6,2023-05-18,Delivered,UPI,5896,Kolkata,West Bengal
+1527,57,2023-08-23,Delivered,Debit Card,66599,Chandigarh,Punjab
+1528,24,2023-09-23,Delivered,UPI,3040,Jaipur,Rajasthan
+1529,76,2022-05-26,Delivered,Cash on Delivery,13145,Lucknow,Uttar Pradesh
+1530,147,2023-11-02,Delivered,Net Banking,3300,Bengaluru,Karnataka
+1531,51,2023-09-10,Shipped,UPI,6400,Bengaluru,Karnataka
+1532,137,2022-05-08,Delivered,Debit Card,9195,Bengaluru,Karnataka
+1533,132,2022-01-22,Delivered,Credit Card,474,Delhi,Delhi
+1534,34,2022-09-05,Delivered,Debit Card,17892,Mumbai,Maharashtra
+1535,42,2023-10-18,Processing,Debit Card,16000,Ahmedabad,Gujarat
+1536,118,2023-06-26,Delivered,EMI,13585,Bengaluru,Karnataka
+1537,192,2023-02-19,Delivered,Net Banking,2047,Delhi,Delhi
+1538,154,2023-01-12,Delivered,UPI,10298,Mumbai,Maharashtra
+1539,51,2022-01-17,Delivered,Cash on Delivery,2116,Bengaluru,Karnataka
+1540,167,2022-11-06,Returned,UPI,162824,Ahmedabad,Gujarat
+1541,96,2022-07-29,Returned,EMI,6994,Chandigarh,Punjab
+1542,120,2023-01-31,Cancelled,Cash on Delivery,17288,Delhi,Delhi
+1543,85,2022-07-18,Processing,Debit Card,37227,Hyderabad,Telangana
+1544,16,2022-01-26,Delivered,Net Banking,4695,Chandigarh,Punjab
+1545,89,2023-09-29,Cancelled,Cash on Delivery,13198,Lucknow,Uttar Pradesh
+1546,196,2023-06-11,Shipped,Cash on Delivery,1350,Mumbai,Maharashtra
+1547,40,2023-01-22,Delivered,Debit Card,16495,Hyderabad,Telangana
+1548,101,2022-08-14,Delivered,Debit Card,44000,Lucknow,Uttar Pradesh
+1549,146,2022-07-18,Delivered,Debit Card,5648,Surat,Gujarat
+1550,187,2023-05-10,Delivered,Debit Card,2038,Kolkata,West Bengal
+1551,30,2022-03-23,Returned,UPI,17722,Chandigarh,Punjab
+1552,162,2023-11-12,Delivered,UPI,3435,Lucknow,Uttar Pradesh
+1553,6,2023-03-21,Delivered,EMI,25080,Kolkata,West Bengal
+1554,28,2022-06-01,Delivered,Debit Card,5694,Jaipur,Rajasthan
+1555,130,2023-01-07,Delivered,Debit Card,10695,Lucknow,Uttar Pradesh
+1556,199,2022-11-18,Delivered,Net Banking,898,Chandigarh,Punjab
+1557,122,2022-02-01,Delivered,Net Banking,9022,Delhi,Delhi
+1558,111,2022-08-29,Delivered,Cash on Delivery,3894,Surat,Gujarat
+1559,26,2022-03-26,Delivered,Net Banking,17100,Ahmedabad,Gujarat
+1560,179,2023-10-26,Delivered,Credit Card,43000,Bengaluru,Karnataka
+1561,174,2023-12-04,Delivered,UPI,68400,Chennai,Tamil Nadu
+1562,22,2022-02-10,Shipped,Net Banking,4798,Surat,Gujarat
+1563,28,2022-10-01,Cancelled,UPI,25897,Jaipur,Rajasthan
+1564,67,2022-06-11,Delivered,EMI,449,Surat,Gujarat
+1565,101,2022-12-13,Delivered,Cash on Delivery,1695,Lucknow,Uttar Pradesh
+1566,181,2023-02-15,Delivered,Debit Card,5097,Delhi,Delhi
+1567,151,2022-05-01,Delivered,EMI,5598,Jaipur,Rajasthan
+1568,177,2022-11-24,Delivered,EMI,2163,Bengaluru,Karnataka
+1569,187,2023-08-25,Delivered,Net Banking,29397,Kolkata,West Bengal
+1570,9,2022-09-16,Shipped,UPI,5646,Chennai,Tamil Nadu
+1571,109,2023-11-06,Cancelled,Debit Card,40899,Chennai,Tamil Nadu
+1572,86,2022-06-01,Delivered,Cash on Delivery,948,Surat,Gujarat
+1573,52,2022-07-04,Cancelled,UPI,56098,Mumbai,Maharashtra
+1574,52,2022-08-05,Delivered,Net Banking,17010,Mumbai,Maharashtra
+1575,157,2022-07-21,Delivered,Net Banking,48597,Delhi,Delhi
+1576,151,2023-10-05,Cancelled,Net Banking,1137,Jaipur,Rajasthan
+1577,147,2022-08-25,Delivered,EMI,2395,Bengaluru,Karnataka
+1578,149,2022-09-18,Delivered,Net Banking,26997,Kolkata,West Bengal
+1579,20,2022-10-08,Shipped,Net Banking,66780,Surat,Gujarat
+1580,74,2022-04-29,Shipped,Debit Card,2967,Hyderabad,Telangana
+1581,4,2023-12-03,Delivered,Debit Card,12321,Chandigarh,Punjab
+1582,75,2023-11-19,Delivered,Debit Card,3045,Surat,Gujarat
+1583,139,2023-12-10,Processing,Credit Card,6400,Chandigarh,Punjab
+1584,62,2022-03-09,Delivered,Cash on Delivery,11194,Chandigarh,Punjab
+1585,32,2023-05-08,Delivered,Debit Card,7106,Kolkata,West Bengal
+1586,159,2022-03-30,Delivered,Debit Card,2157,Ahmedabad,Gujarat
+1587,137,2022-07-18,Shipped,Net Banking,118096,Bengaluru,Karnataka
+1588,49,2023-09-28,Delivered,Net Banking,27213,Pune,Maharashtra
+1589,11,2022-02-07,Delivered,EMI,50394,Delhi,Delhi
+1590,2,2022-11-19,Delivered,Credit Card,15118,Surat,Gujarat
+1591,142,2022-12-15,Cancelled,EMI,499,Delhi,Delhi
+1592,80,2023-07-04,Returned,EMI,57900,Pune,Maharashtra
+1593,72,2022-12-15,Delivered,UPI,11586,Mumbai,Maharashtra
+1594,48,2023-12-30,Returned,Cash on Delivery,449,Lucknow,Uttar Pradesh
+1595,93,2022-04-27,Shipped,UPI,3200,Delhi,Delhi
+1596,148,2022-08-06,Delivered,UPI,2877,Bengaluru,Karnataka
+1597,194,2023-07-09,Returned,EMI,2700,Kolkata,West Bengal
+1598,142,2023-11-05,Delivered,Net Banking,52498,Delhi,Delhi
+1599,190,2022-02-23,Returned,Cash on Delivery,13000,Delhi,Delhi
+1600,11,2023-04-26,Delivered,Cash on Delivery,7199,Delhi,Delhi
+1601,44,2022-07-09,Delivered,EMI,46750,Surat,Gujarat
+1602,44,2023-11-30,Shipped,UPI,17682,Surat,Gujarat
+1603,127,2023-07-15,Delivered,EMI,4606,Jaipur,Rajasthan
+1604,75,2022-12-19,Delivered,Cash on Delivery,1897,Surat,Gujarat
+1605,158,2022-05-08,Processing,Net Banking,60928,Ahmedabad,Gujarat
+1606,33,2023-08-14,Returned,Debit Card,5497,Mumbai,Maharashtra
+1607,60,2022-09-13,Shipped,Debit Card,16000,Mumbai,Maharashtra
+1608,29,2023-08-12,Shipped,EMI,6998,Chennai,Tamil Nadu
+1609,28,2022-12-16,Delivered,EMI,2317,Jaipur,Rajasthan
+1610,84,2023-02-25,Cancelled,Debit Card,23694,Hyderabad,Telangana
+1611,170,2022-09-06,Delivered,Net Banking,17004,Surat,Gujarat
+1612,118,2023-06-21,Cancelled,Debit Card,13147,Bengaluru,Karnataka
+1613,197,2022-01-15,Delivered,EMI,12793,Bengaluru,Karnataka
+1614,123,2023-02-04,Delivered,Debit Card,4394,Kolkata,West Bengal
+1615,99,2022-08-13,Shipped,Cash on Delivery,14900,Mumbai,Maharashtra
+1616,70,2023-11-06,Delivered,Credit Card,118998,Delhi,Delhi
+1617,194,2023-11-16,Delivered,Credit Card,3444,Kolkata,West Bengal
+1618,108,2023-08-05,Delivered,EMI,60796,Kolkata,West Bengal
+1619,179,2022-10-06,Delivered,UPI,7398,Bengaluru,Karnataka
+1620,160,2022-07-20,Cancelled,UPI,63079,Lucknow,Uttar Pradesh
+1621,86,2023-05-20,Delivered,Credit Card,2847,Surat,Gujarat
+1622,60,2023-02-25,Delivered,Cash on Delivery,2974,Mumbai,Maharashtra
+1623,27,2023-11-29,Delivered,UPI,9992,Hyderabad,Telangana
+1624,165,2023-08-26,Delivered,Credit Card,20955,Mumbai,Maharashtra
+1625,162,2022-09-04,Shipped,Cash on Delivery,1197,Lucknow,Uttar Pradesh
+1626,194,2023-12-14,Cancelled,Debit Card,718,Kolkata,West Bengal
+1627,85,2022-04-13,Delivered,Cash on Delivery,1800,Hyderabad,Telangana
+1628,110,2023-12-15,Shipped,Credit Card,5436,Pune,Maharashtra
+1629,6,2023-11-15,Delivered,Credit Card,5352,Kolkata,West Bengal
+1630,51,2022-05-16,Delivered,Debit Card,11746,Bengaluru,Karnataka
+1631,53,2023-01-11,Cancelled,Debit Card,9688,Hyderabad,Telangana
+1632,96,2022-02-05,Delivered,Debit Card,3049,Chandigarh,Punjab
+1633,107,2022-04-22,Shipped,EMI,18352,Ahmedabad,Gujarat
+1634,41,2023-09-01,Delivered,Net Banking,1496,Mumbai,Maharashtra
+1635,156,2022-08-08,Delivered,Net Banking,7197,Hyderabad,Telangana
+1636,120,2022-04-04,Returned,Debit Card,1272,Delhi,Delhi
+1637,137,2022-04-26,Delivered,Cash on Delivery,12397,Bengaluru,Karnataka
+1638,156,2023-07-11,Delivered,Credit Card,2097,Hyderabad,Telangana
+1639,138,2022-04-06,Delivered,Debit Card,16900,Chandigarh,Punjab
+1640,36,2022-08-14,Delivered,Net Banking,1398,Pune,Maharashtra
+1641,185,2023-10-12,Delivered,EMI,798,Lucknow,Uttar Pradesh
+1642,8,2022-02-03,Shipped,EMI,165000,Chandigarh,Punjab
+1643,8,2022-03-27,Delivered,Debit Card,5887,Chandigarh,Punjab
+1644,166,2023-01-16,Delivered,Debit Card,6400,Ahmedabad,Gujarat
+1645,98,2023-11-20,Delivered,UPI,1800,Lucknow,Uttar Pradesh
+1646,22,2023-07-13,Delivered,UPI,10260,Surat,Gujarat
+1647,39,2022-06-29,Delivered,Net Banking,50398,Jaipur,Rajasthan
+1648,7,2022-02-15,Shipped,Debit Card,34200,Pune,Maharashtra
+1649,163,2022-12-16,Shipped,UPI,1169,Ahmedabad,Gujarat
+1650,104,2023-01-22,Delivered,UPI,629,Chennai,Tamil Nadu
+1651,83,2023-01-14,Delivered,Debit Card,3117,Surat,Gujarat
+1652,97,2022-02-12,Delivered,Debit Card,798,Kolkata,West Bengal
+1653,155,2023-09-21,Delivered,Credit Card,58395,Ahmedabad,Gujarat
+1654,65,2023-06-26,Returned,EMI,3000,Pune,Maharashtra
+1655,161,2022-09-22,Delivered,Debit Card,2068,Kolkata,West Bengal
+1656,184,2022-07-12,Delivered,Debit Card,424,Hyderabad,Telangana
+1657,37,2023-12-15,Delivered,EMI,6878,Pune,Maharashtra
+1658,41,2022-01-22,Delivered,EMI,2115,Mumbai,Maharashtra
+1659,55,2022-04-17,Cancelled,Net Banking,12349,Chandigarh,Punjab
+1660,91,2023-01-18,Shipped,EMI,42920,Jaipur,Rajasthan
+1661,175,2022-07-11,Delivered,UPI,113618,Pune,Maharashtra
+1662,148,2023-06-28,Shipped,UPI,3597,Bengaluru,Karnataka
+1663,179,2023-05-28,Shipped,Debit Card,31350,Bengaluru,Karnataka
+1664,16,2023-11-21,Processing,UPI,27300,Chandigarh,Punjab
+1665,196,2022-12-30,Delivered,EMI,10998,Mumbai,Maharashtra
+1666,57,2022-05-25,Delivered,Cash on Delivery,3420,Chandigarh,Punjab
+1667,120,2022-05-07,Processing,Debit Card,2880,Delhi,Delhi
+1668,162,2023-11-27,Delivered,EMI,3948,Lucknow,Uttar Pradesh
+1669,105,2022-02-05,Returned,Cash on Delivery,2880,Surat,Gujarat
+1670,128,2022-12-02,Shipped,EMI,8158,Kolkata,West Bengal
+1671,54,2022-01-28,Delivered,Net Banking,2697,Hyderabad,Telangana
+1672,33,2023-09-04,Shipped,UPI,1992,Mumbai,Maharashtra
+1673,180,2023-05-25,Returned,Net Banking,17800,Chandigarh,Punjab
+1674,101,2023-01-12,Delivered,Credit Card,27999,Lucknow,Uttar Pradesh
+1675,198,2023-08-12,Delivered,Net Banking,10620,Pune,Maharashtra
+1676,151,2022-05-23,Delivered,Debit Card,17995,Jaipur,Rajasthan
+1677,87,2023-03-05,Delivered,Credit Card,3060,Chandigarh,Punjab
+1678,188,2022-10-29,Delivered,EMI,8898,Bengaluru,Karnataka
+1679,6,2022-12-12,Delivered,EMI,2844,Kolkata,West Bengal
+1680,25,2022-04-30,Returned,Debit Card,132359,Bengaluru,Karnataka
+1681,53,2023-01-05,Delivered,EMI,62224,Hyderabad,Telangana
+1682,26,2022-06-29,Delivered,Net Banking,12690,Ahmedabad,Gujarat
+1683,112,2023-08-09,Delivered,Net Banking,1281,Pune,Maharashtra
+1684,165,2022-05-27,Delivered,Credit Card,7099,Mumbai,Maharashtra
+1685,142,2022-01-06,Delivered,EMI,22765,Delhi,Delhi
+1686,12,2022-08-06,Shipped,Credit Card,4895,Kolkata,West Bengal
+1687,116,2023-12-09,Cancelled,Cash on Delivery,9600,Delhi,Delhi
+1688,149,2023-12-26,Delivered,Debit Card,5400,Kolkata,West Bengal
+1689,116,2022-09-19,Shipped,Cash on Delivery,9008,Delhi,Delhi
+1690,147,2023-01-20,Delivered,Cash on Delivery,11798,Bengaluru,Karnataka
+1691,149,2023-01-29,Delivered,UPI,12897,Kolkata,West Bengal
+1692,146,2023-09-26,Delivered,Debit Card,8497,Surat,Gujarat
+1693,104,2023-08-01,Delivered,Credit Card,988,Chennai,Tamil Nadu
+1694,40,2023-02-12,Shipped,Credit Card,594,Hyderabad,Telangana
+1695,45,2022-08-10,Delivered,UPI,8070,Lucknow,Uttar Pradesh
+1696,167,2022-09-07,Cancelled,UPI,89200,Ahmedabad,Gujarat
+1697,105,2023-11-11,Returned,Cash on Delivery,2338,Surat,Gujarat
+1698,88,2022-01-31,Shipped,Cash on Delivery,1952,Ahmedabad,Gujarat
+1699,170,2022-09-30,Delivered,Net Banking,3000,Surat,Gujarat
+1700,162,2022-03-16,Delivered,Net Banking,58500,Lucknow,Uttar Pradesh
+1701,38,2022-07-14,Delivered,Debit Card,15840,Chandigarh,Punjab
+1702,39,2022-09-04,Cancelled,Debit Card,28785,Jaipur,Rajasthan
+1703,171,2023-06-11,Processing,Credit Card,13196,Mumbai,Maharashtra
+1704,21,2023-11-16,Cancelled,Credit Card,9499,Ahmedabad,Gujarat
+1705,136,2022-02-27,Delivered,EMI,11200,Hyderabad,Telangana
+1706,199,2022-07-01,Delivered,EMI,1796,Chandigarh,Punjab
+1707,95,2022-08-14,Delivered,Cash on Delivery,68449,Ahmedabad,Gujarat
+1708,183,2023-04-05,Shipped,Cash on Delivery,1547,Lucknow,Uttar Pradesh
+1709,143,2022-04-05,Delivered,Cash on Delivery,10794,Ahmedabad,Gujarat
+1710,173,2023-07-01,Delivered,Debit Card,25346,Chandigarh,Punjab
+1711,52,2022-12-20,Delivered,Debit Card,5797,Mumbai,Maharashtra
+1712,155,2022-06-17,Delivered,Net Banking,1797,Ahmedabad,Gujarat
+1713,172,2022-11-22,Delivered,UPI,759,Pune,Maharashtra
+1714,56,2023-04-04,Delivered,UPI,2250,Chennai,Tamil Nadu
+1715,186,2022-06-22,Delivered,Credit Card,5676,Surat,Gujarat
+1716,73,2022-02-24,Shipped,Credit Card,10540,Pune,Maharashtra
+1717,28,2022-05-26,Delivered,Debit Card,11851,Jaipur,Rajasthan
+1718,47,2022-04-15,Returned,Net Banking,11697,Bengaluru,Karnataka
+1719,88,2023-05-19,Cancelled,Cash on Delivery,11342,Ahmedabad,Gujarat
+1720,8,2022-12-13,Returned,Credit Card,4272,Chandigarh,Punjab
+1721,140,2023-10-14,Shipped,Net Banking,4553,Chennai,Tamil Nadu
+1722,200,2022-05-31,Shipped,Net Banking,1169,Delhi,Delhi
+1723,22,2023-11-06,Delivered,UPI,3143,Surat,Gujarat
+1724,101,2023-11-27,Processing,Credit Card,44625,Lucknow,Uttar Pradesh
+1725,39,2022-03-16,Delivered,Cash on Delivery,18620,Jaipur,Rajasthan
+1726,11,2023-07-25,Delivered,UPI,2435,Delhi,Delhi
+1727,33,2022-02-08,Shipped,Cash on Delivery,75237,Mumbai,Maharashtra
+1728,178,2022-09-14,Delivered,EMI,13767,Surat,Gujarat
+1729,17,2023-10-25,Delivered,EMI,4860,Bengaluru,Karnataka
+1730,118,2022-02-06,Cancelled,Net Banking,8544,Bengaluru,Karnataka
+1731,197,2023-11-04,Delivered,Net Banking,45197,Bengaluru,Karnataka
+1732,17,2023-10-05,Delivered,Cash on Delivery,8272,Bengaluru,Karnataka
+1733,40,2022-05-13,Delivered,EMI,11695,Hyderabad,Telangana
+1734,175,2023-06-21,Delivered,EMI,424,Pune,Maharashtra
+1735,95,2022-02-23,Delivered,Cash on Delivery,169395,Ahmedabad,Gujarat
+1736,10,2022-02-01,Delivered,Cash on Delivery,2397,Mumbai,Maharashtra
+1737,88,2023-01-19,Delivered,Cash on Delivery,6742,Ahmedabad,Gujarat
+1738,157,2022-10-29,Shipped,EMI,2156,Delhi,Delhi
+1739,57,2022-07-19,Delivered,UPI,13500,Chandigarh,Punjab
+1740,175,2022-12-02,Shipped,Net Banking,14000,Pune,Maharashtra
+1741,43,2023-08-13,Delivered,EMI,3695,Pune,Maharashtra
+1742,156,2023-12-04,Delivered,EMI,8738,Hyderabad,Telangana
+1743,166,2023-05-17,Delivered,UPI,5196,Ahmedabad,Gujarat
+1744,67,2022-08-18,Delivered,Cash on Delivery,8997,Surat,Gujarat
+1745,132,2023-08-14,Returned,Cash on Delivery,2660,Delhi,Delhi
+1746,13,2022-07-23,Shipped,Credit Card,12397,Jaipur,Rajasthan
+1747,79,2022-04-01,Delivered,UPI,9649,Chennai,Tamil Nadu
+1748,45,2023-01-10,Shipped,Cash on Delivery,1347,Lucknow,Uttar Pradesh
+1749,115,2022-11-21,Returned,UPI,44000,Ahmedabad,Gujarat
+1750,179,2023-10-21,Returned,Credit Card,3600,Bengaluru,Karnataka
+1751,46,2023-04-13,Delivered,Cash on Delivery,8192,Ahmedabad,Gujarat
+1752,2,2022-10-06,Delivered,UPI,4558,Surat,Gujarat
+1753,143,2023-03-15,Delivered,Net Banking,10256,Ahmedabad,Gujarat
+1754,36,2023-05-20,Delivered,UPI,23290,Pune,Maharashtra
+1755,82,2023-12-31,Delivered,Cash on Delivery,8897,Surat,Gujarat
+1756,86,2022-01-27,Delivered,UPI,76000,Surat,Gujarat
+1757,151,2023-10-25,Delivered,Credit Card,13918,Jaipur,Rajasthan
+1758,18,2022-08-02,Delivered,Credit Card,359,Pune,Maharashtra
+1759,163,2023-10-11,Delivered,Cash on Delivery,17908,Ahmedabad,Gujarat
+1760,159,2023-05-18,Delivered,EMI,3595,Ahmedabad,Gujarat
+1761,75,2023-10-21,Cancelled,EMI,33656,Surat,Gujarat
+1762,18,2023-06-23,Cancelled,Credit Card,4249,Pune,Maharashtra
+1763,17,2022-05-10,Cancelled,EMI,12198,Bengaluru,Karnataka
+1764,160,2022-04-05,Shipped,Credit Card,539,Lucknow,Uttar Pradesh
+1765,107,2022-09-26,Delivered,Cash on Delivery,14143,Ahmedabad,Gujarat
+1766,23,2023-11-13,Delivered,EMI,11990,Pune,Maharashtra
+1767,35,2023-01-24,Delivered,Cash on Delivery,69600,Hyderabad,Telangana
+1768,190,2023-04-10,Delivered,Debit Card,10367,Delhi,Delhi
+1769,45,2022-03-06,Shipped,Debit Card,8796,Lucknow,Uttar Pradesh
+1770,40,2023-08-14,Returned,EMI,3321,Hyderabad,Telangana
+1771,150,2022-03-19,Delivered,Debit Card,8994,Kolkata,West Bengal
+1772,63,2023-08-15,Returned,UPI,3229,Bengaluru,Karnataka
+1773,186,2023-10-23,Delivered,Credit Card,5751,Surat,Gujarat
+1774,199,2023-05-26,Cancelled,Cash on Delivery,5997,Chandigarh,Punjab
+1775,113,2022-01-03,Delivered,Debit Card,4899,Ahmedabad,Gujarat
+1776,171,2023-09-03,Delivered,UPI,15343,Mumbai,Maharashtra
+1777,34,2022-06-02,Delivered,UPI,7125,Mumbai,Maharashtra
+1778,186,2022-02-25,Cancelled,UPI,41197,Surat,Gujarat
+1779,156,2023-12-04,Delivered,Debit Card,9940,Hyderabad,Telangana
+1780,171,2023-06-11,Delivered,Credit Card,4558,Mumbai,Maharashtra
+1781,72,2022-11-06,Cancelled,Cash on Delivery,2999,Mumbai,Maharashtra
+1782,18,2022-12-22,Cancelled,Credit Card,7099,Pune,Maharashtra
+1783,148,2022-06-21,Delivered,UPI,144500,Bengaluru,Karnataka
+1784,15,2023-09-19,Delivered,Net Banking,21600,Kolkata,West Bengal
+1785,152,2023-05-27,Returned,Debit Card,3040,Delhi,Delhi
+1786,163,2022-06-04,Delivered,EMI,10708,Ahmedabad,Gujarat
+1787,120,2023-11-08,Delivered,EMI,5355,Delhi,Delhi
+1788,29,2023-01-27,Delivered,EMI,56996,Chennai,Tamil Nadu
+1789,170,2023-06-26,Delivered,Cash on Delivery,11893,Surat,Gujarat
+1790,138,2022-01-14,Shipped,Credit Card,2098,Chandigarh,Punjab
+1791,26,2022-04-03,Delivered,Debit Card,60997,Ahmedabad,Gujarat
+1792,84,2022-05-18,Delivered,Credit Card,9120,Hyderabad,Telangana
+1793,180,2023-01-11,Cancelled,Debit Card,67827,Chandigarh,Punjab
+1794,89,2022-05-12,Delivered,UPI,119295,Lucknow,Uttar Pradesh
+1795,139,2023-01-11,Delivered,Credit Card,98088,Chandigarh,Punjab
+1796,14,2023-03-09,Delivered,Net Banking,3897,Hyderabad,Telangana
+1797,127,2022-10-12,Delivered,Credit Card,2277,Jaipur,Rajasthan
+1798,185,2022-03-29,Delivered,Debit Card,135314,Lucknow,Uttar Pradesh
+1799,88,2022-11-24,Shipped,UPI,19998,Ahmedabad,Gujarat
+1800,5,2023-09-23,Returned,EMI,4082,Lucknow,Uttar Pradesh
+1801,160,2022-03-08,Delivered,Net Banking,2556,Lucknow,Uttar Pradesh
+1802,123,2022-04-19,Delivered,Credit Card,9949,Kolkata,West Bengal
+1803,197,2022-05-02,Delivered,EMI,35200,Bengaluru,Karnataka
+1804,142,2022-08-24,Delivered,Credit Card,284,Delhi,Delhi
+1805,109,2023-06-13,Delivered,Credit Card,6000,Chennai,Tamil Nadu
+1806,172,2023-01-11,Cancelled,Credit Card,65597,Pune,Maharashtra
+1807,51,2023-06-05,Delivered,Debit Card,1098,Bengaluru,Karnataka
+1808,183,2022-08-23,Delivered,Cash on Delivery,11200,Lucknow,Uttar Pradesh
+1809,103,2022-06-29,Delivered,Cash on Delivery,2849,Hyderabad,Telangana
+1810,90,2023-06-29,Delivered,Credit Card,4846,Chandigarh,Punjab
+1811,86,2022-07-23,Delivered,Net Banking,7398,Surat,Gujarat
+1812,112,2022-06-02,Delivered,Cash on Delivery,999,Pune,Maharashtra
+1813,180,2023-05-02,Delivered,UPI,41800,Chandigarh,Punjab
+1814,109,2022-04-13,Shipped,Credit Card,121697,Chennai,Tamil Nadu
+1815,171,2023-04-24,Delivered,EMI,5440,Mumbai,Maharashtra
+1816,150,2022-08-30,Shipped,EMI,3060,Kolkata,West Bengal
+1817,70,2023-08-11,Delivered,EMI,798,Delhi,Delhi
+1818,45,2022-02-13,Delivered,Cash on Delivery,14697,Lucknow,Uttar Pradesh
+1819,102,2023-09-13,Delivered,EMI,28442,Bengaluru,Karnataka
+1820,192,2022-10-27,Returned,Credit Card,549,Delhi,Delhi
+1821,125,2022-10-21,Delivered,UPI,449,Hyderabad,Telangana
+1822,45,2022-11-27,Delivered,Cash on Delivery,15745,Lucknow,Uttar Pradesh
+1823,18,2023-12-30,Delivered,Net Banking,4792,Pune,Maharashtra
+1824,44,2022-04-19,Delivered,Debit Card,1401,Surat,Gujarat
+1825,169,2022-01-29,Delivered,EMI,15810,Kolkata,West Bengal
+1826,153,2023-06-01,Returned,EMI,13434,Hyderabad,Telangana
+1827,75,2023-11-09,Processing,Net Banking,16000,Surat,Gujarat
+1828,137,2022-05-22,Returned,UPI,8367,Bengaluru,Karnataka
+1829,60,2023-08-08,Delivered,Credit Card,18635,Mumbai,Maharashtra
+1830,108,2023-05-01,Cancelled,Net Banking,9266,Kolkata,West Bengal
+1831,104,2022-04-04,Delivered,Net Banking,2037,Chennai,Tamil Nadu
+1832,70,2022-06-19,Shipped,Net Banking,11739,Delhi,Delhi
+1833,13,2022-10-01,Delivered,EMI,1798,Jaipur,Rajasthan
+1834,23,2023-08-18,Delivered,Cash on Delivery,41393,Pune,Maharashtra
+1835,173,2023-12-09,Delivered,Net Banking,13767,Chandigarh,Punjab
+1836,165,2023-02-12,Cancelled,Net Banking,41990,Mumbai,Maharashtra
+1837,157,2023-01-21,Delivered,UPI,11967,Delhi,Delhi
+1838,114,2022-01-12,Delivered,Debit Card,16500,Pune,Maharashtra
+1839,195,2022-09-06,Delivered,Cash on Delivery,39197,Chandigarh,Punjab
+1840,137,2023-12-15,Cancelled,Debit Card,44998,Bengaluru,Karnataka
+1841,39,2023-06-24,Delivered,Credit Card,16049,Jaipur,Rajasthan
+1842,151,2022-09-12,Shipped,Credit Card,15295,Jaipur,Rajasthan
+1843,105,2022-01-01,Returned,UPI,46976,Surat,Gujarat
+1844,86,2023-12-19,Delivered,UPI,1278,Surat,Gujarat
+1845,127,2022-05-29,Delivered,EMI,9297,Jaipur,Rajasthan
+1846,71,2022-01-29,Delivered,UPI,25911,Kolkata,West Bengal
+1847,11,2023-07-14,Delivered,Cash on Delivery,499,Delhi,Delhi
+1848,70,2022-03-23,Shipped,UPI,13225,Delhi,Delhi
+1849,68,2023-07-14,Delivered,Cash on Delivery,8903,Ahmedabad,Gujarat
+1850,146,2022-11-16,Delivered,UPI,1197,Surat,Gujarat
+1851,13,2022-04-24,Delivered,Cash on Delivery,424,Jaipur,Rajasthan
+1852,15,2023-12-05,Delivered,Credit Card,66969,Kolkata,West Bengal
+1853,16,2022-08-21,Delivered,EMI,6240,Chandigarh,Punjab
+1854,67,2022-12-02,Delivered,Credit Card,21897,Surat,Gujarat
+1855,147,2022-11-05,Processing,UPI,2798,Bengaluru,Karnataka
+1856,97,2023-01-20,Delivered,Net Banking,4896,Kolkata,West Bengal
+1857,42,2022-01-15,Delivered,Net Banking,5543,Ahmedabad,Gujarat
+1858,116,2022-11-12,Cancelled,Credit Card,7408,Delhi,Delhi
+1859,67,2023-02-19,Shipped,Credit Card,23093,Surat,Gujarat
+1860,156,2022-12-22,Shipped,EMI,20425,Hyderabad,Telangana
+1861,31,2022-06-29,Returned,Net Banking,10542,Ahmedabad,Gujarat
+1862,169,2023-05-01,Delivered,Net Banking,1397,Kolkata,West Bengal
+1863,72,2023-12-28,Delivered,Cash on Delivery,1920,Mumbai,Maharashtra
+1864,137,2023-06-14,Delivered,Cash on Delivery,69825,Bengaluru,Karnataka
+1865,33,2022-07-20,Delivered,UPI,2374,Mumbai,Maharashtra
+1866,70,2023-04-02,Cancelled,EMI,3438,Delhi,Delhi
+1867,38,2022-04-24,Delivered,Debit Card,11898,Chandigarh,Punjab
+1868,59,2023-03-17,Delivered,Cash on Delivery,8296,Chennai,Tamil Nadu
+1869,68,2023-06-11,Delivered,Cash on Delivery,2462,Ahmedabad,Gujarat
+1870,84,2022-09-17,Shipped,Net Banking,67500,Hyderabad,Telangana
+1871,74,2023-10-30,Delivered,Debit Card,46096,Hyderabad,Telangana
+1872,158,2023-05-19,Delivered,Net Banking,239,Ahmedabad,Gujarat
+1873,63,2023-11-12,Delivered,Cash on Delivery,52150,Bengaluru,Karnataka
+1874,19,2023-05-02,Cancelled,Credit Card,37800,Ahmedabad,Gujarat
+1875,66,2022-12-03,Delivered,Debit Card,67797,Bengaluru,Karnataka
+1876,129,2022-05-29,Cancelled,UPI,17596,Mumbai,Maharashtra
+1877,190,2022-04-17,Delivered,Cash on Delivery,1497,Delhi,Delhi
+1878,18,2023-03-12,Delivered,EMI,24398,Pune,Maharashtra
+1879,14,2023-06-29,Shipped,Net Banking,7919,Hyderabad,Telangana
+1880,116,2023-12-23,Delivered,EMI,43200,Delhi,Delhi
+1881,172,2022-11-25,Delivered,Net Banking,16200,Pune,Maharashtra
+1882,66,2023-07-06,Processing,Cash on Delivery,6520,Bengaluru,Karnataka
+1883,79,2022-11-19,Delivered,Net Banking,4415,Chennai,Tamil Nadu
+1884,10,2022-04-02,Returned,Cash on Delivery,20566,Mumbai,Maharashtra
+1885,134,2022-08-30,Delivered,Credit Card,9435,Lucknow,Uttar Pradesh
+1886,128,2022-01-31,Delivered,Cash on Delivery,18993,Kolkata,West Bengal
+1887,43,2022-05-30,Cancelled,Credit Card,22000,Pune,Maharashtra
+1888,45,2022-01-03,Shipped,Net Banking,15200,Lucknow,Uttar Pradesh
+1889,98,2022-04-28,Delivered,EMI,148500,Lucknow,Uttar Pradesh
+1890,143,2023-11-24,Delivered,UPI,27798,Ahmedabad,Gujarat
+1891,16,2022-08-29,Delivered,Credit Card,3676,Chandigarh,Punjab
+1892,193,2023-07-18,Delivered,Cash on Delivery,9396,Delhi,Delhi
+1893,9,2022-01-04,Cancelled,Net Banking,55698,Chennai,Tamil Nadu
+1894,72,2022-12-04,Returned,Credit Card,136418,Mumbai,Maharashtra
+1895,69,2022-04-05,Returned,Net Banking,36000,Hyderabad,Telangana
+1896,23,2023-12-27,Processing,Credit Card,1918,Pune,Maharashtra
+1897,139,2022-11-28,Delivered,Cash on Delivery,1497,Chandigarh,Punjab
+1898,121,2022-02-12,Shipped,Debit Card,2468,Chandigarh,Punjab
+1899,141,2022-07-27,Delivered,Cash on Delivery,6927,Jaipur,Rajasthan
+1900,100,2023-09-14,Delivered,Cash on Delivery,56066,Ahmedabad,Gujarat
+1901,136,2023-11-30,Delivered,Cash on Delivery,70392,Hyderabad,Telangana
+1902,146,2023-04-11,Delivered,Credit Card,121996,Surat,Gujarat
+1903,162,2023-06-19,Delivered,Credit Card,49139,Lucknow,Uttar Pradesh
+1904,95,2022-05-23,Delivered,Cash on Delivery,349,Ahmedabad,Gujarat
+1905,118,2023-05-14,Delivered,Cash on Delivery,5844,Bengaluru,Karnataka
+1906,166,2023-07-19,Delivered,Cash on Delivery,8455,Ahmedabad,Gujarat
+1907,69,2022-07-01,Returned,UPI,6387,Hyderabad,Telangana
+1908,116,2022-02-24,Delivered,Cash on Delivery,17895,Delhi,Delhi
+1909,125,2022-02-16,Delivered,Cash on Delivery,5047,Hyderabad,Telangana
+1910,1,2023-12-29,Delivered,Net Banking,10500,Mumbai,Maharashtra
+1911,88,2023-02-24,Delivered,Debit Card,9746,Ahmedabad,Gujarat
+1912,42,2023-07-28,Delivered,Cash on Delivery,34850,Ahmedabad,Gujarat
+1913,177,2022-09-26,Delivered,Cash on Delivery,3315,Bengaluru,Karnataka
+1914,16,2022-12-26,Delivered,UPI,3600,Chandigarh,Punjab
+1915,46,2023-04-20,Delivered,Net Banking,3600,Ahmedabad,Gujarat
+1916,12,2023-01-07,Cancelled,Debit Card,3799,Kolkata,West Bengal
+1917,119,2022-03-14,Delivered,EMI,46633,Lucknow,Uttar Pradesh
+1918,80,2023-07-30,Shipped,Cash on Delivery,10539,Pune,Maharashtra
+1919,147,2022-08-07,Delivered,Net Banking,11837,Bengaluru,Karnataka
+1920,160,2023-06-12,Cancelled,Cash on Delivery,9396,Lucknow,Uttar Pradesh
+1921,199,2022-03-14,Delivered,Debit Card,9600,Chandigarh,Punjab
+1922,170,2023-09-18,Cancelled,Debit Card,20233,Surat,Gujarat
+1923,135,2022-09-05,Delivered,UPI,4719,Chennai,Tamil Nadu
+1924,110,2023-04-04,Delivered,EMI,6298,Pune,Maharashtra
+1925,129,2022-07-19,Delivered,EMI,5595,Mumbai,Maharashtra
+1926,139,2022-02-18,Cancelled,UPI,10283,Chandigarh,Punjab
+1927,115,2023-09-27,Returned,Debit Card,8094,Ahmedabad,Gujarat
+1928,3,2023-09-01,Returned,UPI,2500,Delhi,Delhi
+1929,127,2023-10-07,Cancelled,Credit Card,68900,Jaipur,Rajasthan
+1930,100,2022-04-08,Delivered,UPI,2208,Ahmedabad,Gujarat
+1931,175,2023-02-03,Delivered,Credit Card,7122,Pune,Maharashtra
+1932,159,2023-01-15,Shipped,Credit Card,5864,Ahmedabad,Gujarat
+1933,22,2023-11-14,Returned,Cash on Delivery,2798,Surat,Gujarat
+1934,41,2023-03-04,Delivered,UPI,3600,Mumbai,Maharashtra
+1935,47,2022-12-22,Delivered,UPI,10097,Bengaluru,Karnataka
+1936,181,2022-07-15,Delivered,UPI,9051,Delhi,Delhi
+1937,173,2023-01-10,Shipped,Credit Card,1199,Chandigarh,Punjab
+1938,101,2022-10-22,Delivered,Cash on Delivery,37400,Lucknow,Uttar Pradesh
+1939,90,2022-05-10,Delivered,Cash on Delivery,9447,Chandigarh,Punjab
+1940,195,2022-10-19,Delivered,EMI,7200,Chandigarh,Punjab
+1941,57,2023-11-01,Delivered,Debit Card,13994,Chandigarh,Punjab
+1942,38,2022-02-16,Delivered,Net Banking,68217,Chandigarh,Punjab
+1943,5,2023-02-12,Delivered,Net Banking,31350,Lucknow,Uttar Pradesh
+1944,123,2023-05-28,Delivered,UPI,17992,Kolkata,West Bengal
+1945,58,2022-01-22,Delivered,Net Banking,399,Chandigarh,Punjab
+1946,86,2022-12-02,Delivered,UPI,2799,Surat,Gujarat
+1947,19,2023-05-21,Delivered,Net Banking,1597,Ahmedabad,Gujarat
+1948,118,2023-07-05,Delivered,EMI,10706,Bengaluru,Karnataka
+1949,57,2022-11-12,Shipped,Credit Card,56250,Chandigarh,Punjab
+1950,174,2022-02-17,Delivered,Net Banking,19708,Chennai,Tamil Nadu
+1951,39,2022-04-30,Delivered,Debit Card,479,Jaipur,Rajasthan
+1952,158,2022-01-07,Delivered,Cash on Delivery,10686,Ahmedabad,Gujarat
+1953,23,2022-06-25,Delivered,Debit Card,67923,Pune,Maharashtra
+1954,37,2023-04-14,Delivered,Net Banking,10063,Pune,Maharashtra
+1955,33,2022-01-02,Delivered,Cash on Delivery,8395,Mumbai,Maharashtra
+1956,44,2022-04-12,Returned,Cash on Delivery,8797,Surat,Gujarat
+1957,147,2023-05-16,Delivered,Net Banking,1299,Bengaluru,Karnataka
+1958,129,2023-03-24,Delivered,Cash on Delivery,11397,Mumbai,Maharashtra
+1959,81,2023-08-06,Delivered,Credit Card,4840,Ahmedabad,Gujarat
+1960,137,2023-12-18,Processing,Cash on Delivery,28500,Bengaluru,Karnataka
+1961,123,2022-06-26,Shipped,Cash on Delivery,15700,Kolkata,West Bengal
+1962,42,2022-01-02,Delivered,Cash on Delivery,7497,Ahmedabad,Gujarat
+1963,33,2023-10-03,Delivered,Credit Card,3596,Mumbai,Maharashtra
+1964,72,2023-11-02,Shipped,Credit Card,2940,Mumbai,Maharashtra
+1965,155,2023-12-29,Shipped,EMI,18499,Ahmedabad,Gujarat
+1966,163,2022-08-01,Returned,EMI,6500,Ahmedabad,Gujarat
+1967,34,2022-05-14,Delivered,EMI,5445,Mumbai,Maharashtra
+1968,107,2022-12-10,Delivered,Debit Card,1647,Ahmedabad,Gujarat
+1969,15,2022-12-19,Delivered,Net Banking,1211,Kolkata,West Bengal
+1970,138,2022-08-18,Shipped,Cash on Delivery,181000,Chandigarh,Punjab
+1971,176,2022-03-17,Cancelled,Debit Card,28077,Lucknow,Uttar Pradesh
+1972,8,2022-09-27,Delivered,Net Banking,8550,Chandigarh,Punjab
+1973,146,2022-03-25,Delivered,Cash on Delivery,6698,Surat,Gujarat
+1974,143,2023-01-13,Delivered,Net Banking,68744,Ahmedabad,Gujarat
+1975,93,2023-01-06,Delivered,UPI,4200,Delhi,Delhi
+1976,10,2023-03-28,Shipped,EMI,13495,Mumbai,Maharashtra
+1977,78,2023-10-25,Cancelled,Net Banking,5944,Hyderabad,Telangana
+1978,38,2022-09-19,Returned,EMI,3144,Chandigarh,Punjab
+1979,179,2022-11-25,Cancelled,EMI,14997,Bengaluru,Karnataka
+1980,153,2023-12-05,Returned,Debit Card,424,Hyderabad,Telangana
+1981,186,2022-11-15,Delivered,Net Banking,3200,Surat,Gujarat
+1982,52,2023-07-28,Returned,Debit Card,6196,Mumbai,Maharashtra
+1983,137,2022-08-30,Returned,Credit Card,4237,Bengaluru,Karnataka
+1984,20,2022-03-22,Delivered,EMI,3793,Surat,Gujarat
+1985,100,2023-12-08,Delivered,EMI,13130,Ahmedabad,Gujarat
+1986,86,2022-07-24,Delivered,UPI,6311,Surat,Gujarat
+1987,199,2023-05-30,Delivered,Debit Card,39897,Chandigarh,Punjab
+1988,179,2022-01-09,Delivered,UPI,6998,Bengaluru,Karnataka
+1989,83,2023-01-16,Delivered,Debit Card,6596,Surat,Gujarat
+1990,95,2023-08-26,Delivered,Credit Card,10400,Ahmedabad,Gujarat
+1991,14,2023-11-15,Delivered,Debit Card,9781,Hyderabad,Telangana
+1992,80,2022-08-07,Delivered,Debit Card,508,Pune,Maharashtra
+1993,58,2022-04-17,Delivered,EMI,46750,Chandigarh,Punjab
+1994,127,2023-06-28,Delivered,EMI,10167,Jaipur,Rajasthan
+1995,72,2022-11-22,Cancelled,EMI,11796,Mumbai,Maharashtra
+1996,111,2023-06-02,Delivered,Debit Card,23416,Surat,Gujarat
+1997,178,2023-06-26,Delivered,Debit Card,14213,Surat,Gujarat
+1998,105,2022-07-12,Delivered,Credit Card,46197,Surat,Gujarat
+1999,180,2023-01-01,Delivered,UPI,8397,Chandigarh,Punjab
+2000,169,2022-02-16,Returned,Net Banking,132000,Kolkata,West Bengal

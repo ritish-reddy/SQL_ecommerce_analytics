@@ -1,0 +1,41 @@
+product_id,product_name,category,unit_price,cost_price
+1,Smartphone,Electronics,18000,8318
+2,Laptop,Electronics,55000,27785
+3,Tablet,Electronics,22000,14160
+4,Headphones,Electronics,3500,2239
+5,Smartwatch,Electronics,8000,4919
+6,Power Bank,Electronics,1200,562
+7,Bluetooth Speaker,Electronics,2500,1231
+8,Webcam,Electronics,2800,1618
+9,T-Shirt,Clothing,499,321
+10,Jeans,Clothing,1299,598
+11,Kurta,Clothing,799,413
+12,Saree,Clothing,2499,1619
+13,Jacket,Clothing,2999,1822
+14,Sneakers,Clothing,3499,1718
+15,Formal Shirt,Clothing,1199,739
+16,Track Pants,Clothing,699,392
+17,Mixer Grinder,Home & Kitchen,3200,1815
+18,Air Fryer,Home & Kitchen,6500,3982
+19,Bedsheet Set,Home & Kitchen,1800,894
+20,Curtains,Home & Kitchen,1400,847
+21,Water Bottle,Home & Kitchen,399,242
+22,Cookware Set,Home & Kitchen,4500,2561
+23,Table Lamp,Home & Kitchen,999,505
+24,Sofa Cover,Home & Kitchen,1299,840
+25,Data Science Guide,Books,599,388
+26,Python Programming,Books,499,278
+27,Business Analytics,Books,549,335
+28,SQL Mastery,Books,449,212
+29,Self-Help Book,Books,299,186
+30,Fiction Novel,Books,349,166
+31,Finance Book,Books,399,208
+32,Marketing Basics,Books,449,273
+33,Cricket Bat,Sports,1800,1022
+34,Yoga Mat,Sports,699,317
+35,Dumbbells,Sports,2500,1258
+36,Cycling Helmet,Sports,1500,713
+37,Badminton Racket,Sports,1200,641
+38,Football,Sports,899,425
+39,Running Shoes,Sports,3200,1481
+40,Gym Gloves,Sports,499,269
